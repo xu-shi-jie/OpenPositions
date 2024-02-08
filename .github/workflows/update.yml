@@ -21,6 +21,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: run main script
         run: |
+          python3 -m pip install --upgrade pip
+          pip install -r requirements.txt
           python3 main.py
       - name: Commit and push if changed
         run: |

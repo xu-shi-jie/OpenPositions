@@ -1,3 +1,4 @@
+import datetime
 import re
 import sqlite3
 from pathlib import Path
@@ -77,63 +78,64 @@ def extract_info(url):
 
 if __name__ == '__main__':
     # fetch_announcements()
-    # fetch_daily()
+    fetch_daily()
 
     ################# write to sqlite3 database ##################
 
-    db = sqlite3.connect('gaoxiaojob.db')
-    cursor = db.cursor()
-    cursor.execute('''
-        CREATE TABLE IF NOT EXISTS announcements (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            url TEXT,
-            title TEXT,
-            publish_time TEXT,
-            ddl_time TEXT
-        )
-    ''')
-    db.commit()
+    # db = sqlite3.connect('gaoxiaojob.db')
+    # cursor = db.cursor()
+    # cursor.execute('''
+    #     CREATE TABLE IF NOT EXISTS announcements (
+    #         id INTEGER PRIMARY KEY AUTOINCREMENT,
+    #         url TEXT,
+    #         title TEXT,
+    #         publish_time TEXT,
+    #         ddl_time TEXT
+    #     )
+    # ''')
+    # db.commit()
 
-    visited_urls = cursor.execute('SELECT url FROM announcements').fetchall()
-    visited_urls = [url[0] for url in visited_urls]
+    # visited_urls = cursor.execute('SELECT url FROM announcements').fetchall()
+    # visited_urls = [url[0] for url in visited_urls]
 
-    df = pd.read_csv('announcements.csv')
+    # df = pd.read_csv('announcements.csv')
     
-    if Path('expired.txt').exists():
-        with open('expired.txt', 'r') as f:
-            expired = f.read().split('\n')
-    else:
-        expired = []
+    # if Path('expired.txt').exists():
+    #     with open('expired.txt', 'r') as f:
+    #         expired = f.read().split('\n')
+    # else:
+    #     expired = []
 
 
-    for i, url in enumerate(df['url']):
-        if url in expired or url in visited_urls:
-            continue
+    # for i, url in enumerate(df['url']):
+    #     if url in expired or url in visited_urls:
+    #         continue
 
-        print(f"\r[{i}/{len(df['url'])}] Fetching {url}...", end='')
+    #     print(f"\r[{i}/{len(df['url'])}] Fetching {url}...", end='')
 
-        try:
-            title, publish_time, ddl_time = extract_info(url)
+    #     try:
+    #         title, publish_time, ddl_time = extract_info(url)
 
-            cursor.execute('''
-                INSERT INTO announcements (url, title, publish_time, ddl_time)
-                VALUES (?, ?, ?, ?)
-            ''', (url, title, publish_time, ddl_time))
-            db.commit()
+    #         cursor.execute('''
+    #             INSERT INTO announcements (url, title, publish_time, ddl_time)
+    #             VALUES (?, ?, ?, ?)
+    #         ''', (url, title, publish_time, ddl_time))
+    #         db.commit()
 
-        except Exception as e:
-            print(f" Error: {e}")
-            expired.append(url)
+    #     except Exception as e:
+    #         print(f" Error: {e}")
+    #         expired.append(url)
 
-            with open('expired.txt', 'w') as f:
-                f.write('\n'.join(expired))
+    #         with open('expired.txt', 'w') as f:
+    #             f.write('\n'.join(expired))
 
-    db.close()
+    # db.close()
 
 
     ################## write latest 200 announcements to Markdown file ##################
     with open('README.md', 'w') as f:
         f.write('# 高校人才网最新公告\n\n')
+        f.write(f'This is a repository for 高校人才网. Last Update: {datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")} UTC.\n')
 
         db = sqlite3.connect('gaoxiaojob.db')
         cursor = db.cursor()
