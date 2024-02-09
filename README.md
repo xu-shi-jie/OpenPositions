@@ -1,209 +1,309 @@
 # 高校人才网最新公告
 
-This is a repository for 高校人才网. Last Update: 2024-02-08 10:45:40 UTC.
+This is a repository for 高校人才网. Last Update: 2024-02-08 19:40:52 UTC.
 ## News List
 
 |标题|发布时间|截止时间|
 |---|---|---|
-|[西湖大学工学院人工智能与生物医学影像实验室科研助理招聘启事](http://www.gaoxiaojob.com/announcement/detail/115108.html)|2024-02-07|Invalid Time Format|
-|[西湖大学工学院SAWAN实验室招聘科研助理（微纳加工）](http://www.gaoxiaojob.com/announcement/detail/115121.html)|2024-02-07|Invalid Time Format|
-|[西湖疾病模型核心实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/115117.html)|2024-02-07|Invalid Time Format|
-|[西湖实验室李旭实验室助理研究员招聘启事](http://www.gaoxiaojob.com/announcement/detail/115568.html)|2024-02-07|Invalid Time Format|
-|[青岛大学肿瘤研究院2024年诚邀新药、器械、诊断方向医工研创新实战型青年人才](http://www.gaoxiaojob.com/announcement/detail/9086.html)|2024-02-07|Invalid Time Format|
-|[深圳市第二人民医院2024年博士后招收简章](http://www.gaoxiaojob.com/announcement/detail/75810.html)|2024-02-07|Invalid Time Format|
-|[北京航空航天大学宁波创新研究院2024年高层次人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/49960.html)|2024-02-07|Invalid Time Format|
-|[山东华宇工学院2024年度硕士研究生招聘公告](http://www.gaoxiaojob.com/announcement/detail/664.html)|2024-02-06|Invalid Time Format|
-|[东莞城市学院2024年专任教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/39354.html)|2024-02-06|Invalid Time Format|
-|[西湖大学生命科学学院万奕含课题组（单分子动态转录组系统生物学实验室） 博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/114859.html)|2024-02-06|Invalid Time Format|
-|[中国科学院大学生命科学学院马宗源实验室2024年博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/123540.html)|2024-02-06|Invalid Time Format|
-|[中国科学院分子细胞科学卓越创新中心杨巍维组2024年招聘助理研究员](http://www.gaoxiaojob.com/announcement/detail/133973.html)|2024-02-06|Invalid Time Format|
-|[南昌理工学院计算机信息工程学院2024年专任教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/140845.html)|2024-02-06|Invalid Time Format|
-|[广州商学院2024年高层次人才（博士教师）招聘启事](http://www.gaoxiaojob.com/announcement/detail/55100.html)|2024-02-05|Invalid Time Format|
-|[广州商学院2024年诚聘博硕英才](http://www.gaoxiaojob.com/announcement/detail/38163.html)|2024-02-05|Invalid Time Format|
-|[西湖大学光电研究院硅光异质集成光传感方向岗位招聘启事](http://www.gaoxiaojob.com/announcement/detail/114635.html)|2024-02-05|Invalid Time Format|
-|[西湖实验室/西湖大学生命科学学院 章永登实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/114466.html)|2024-02-05|Invalid Time Format|
-|[西湖大学工学院吴泰霖AI+Science实验室科研助理招聘启事](http://www.gaoxiaojob.com/announcement/detail/114695.html)|2024-02-05|Invalid Time Format|
-|[西湖实验室/西湖大学生命科学学院 于洪涛实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/114701.html)|2024-02-05|Invalid Time Format|
-|[西湖实验室/西湖大学生命科学学院 解明岐实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/114858.html)|2024-02-05|Invalid Time Format|
-|[西湖实验室/西湖大学生命科学学院 吴连锋实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/115114.html)|2024-02-05|Invalid Time Format|
-|[中国科学院大学材料科学与光电技术学院苏娟娟课题组2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/115889.html)|2024-02-05|Invalid Time Format|
-|[重庆工程学院常年博士招聘公告](http://www.gaoxiaojob.com/announcement/detail/63024.html)|2024-02-05|Invalid Time Format|
-|[清华大学新能源动力系统团队2024年招聘博士后](http://www.gaoxiaojob.com/announcement/detail/35538.html)|2024-02-05|Invalid Time Format|
-|[广州实验室胡苹课题组2024年公开招聘](http://www.gaoxiaojob.com/announcement/detail/131459.html)|2024-02-05|Invalid Time Format|
-|[广州实验室姚红杰课题组2024年公开招聘科研助理](http://www.gaoxiaojob.com/announcement/detail/131460.html)|2024-02-05|Invalid Time Format|
-|[中国科学院分子细胞科学卓越创新中心杨巍维组2024年招聘实验室技术员](http://www.gaoxiaojob.com/announcement/detail/133971.html)|2024-02-05|Invalid Time Format|
-|[中国科学院大学智能成像中心2024年结构工程师招聘启事](http://www.gaoxiaojob.com/announcement/detail/142224.html)|2024-02-05|Invalid Time Format|
-|[河南理工大学2024年诚聘优秀人才](http://www.gaoxiaojob.com/announcement/detail/6948.html)|2024-02-04|Invalid Time Format|
-|[沈阳工学院2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/261.html)|2024-02-04|Invalid Time Format|
-|[2024年度上海杉达学院高层次人才（含港澳台）招聘公告](http://www.gaoxiaojob.com/announcement/detail/1628.html)|2024-02-04|Invalid Time Format|
-|[西湖大学生命科学学院张垲课题组（调控基因组学实验室）副研究员招聘启事](http://www.gaoxiaojob.com/announcement/detail/113747.html)|2024-02-04|Invalid Time Format|
-|[西湖实验室/西湖大学生命科学学院 唐鸿云实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/113799.html)|2024-02-04|Invalid Time Format|
-|[西湖实验室/西湖大学生命科学学院 李旭实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/114461.html)|2024-02-04|Invalid Time Format|
-|[西湖实验室/西湖大学生命科学学院 杨培国实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/114462.html)|2024-02-04|Invalid Time Format|
-|[中国科学技术大学苏州高等研究院2024年诚聘特任副研究员&博士后研究员](http://www.gaoxiaojob.com/announcement/detail/118104.html)|2024-02-04|Invalid Time Format|
-|[江苏科技大学2024年诚聘海内外优秀人才](http://www.gaoxiaojob.com/announcement/detail/98911.html)|2024-02-04|Invalid Time Format|
-|[杭州科技职业技术学院2024年人才引进（招聘）公告](http://www.gaoxiaojob.com/announcement/detail/105959.html)|2024-02-04|2024-04-30|
-|[宁波职业技术学院2024年公开招聘高层次、高技能人才公告](http://www.gaoxiaojob.com/announcement/detail/104724.html)|2024-02-04|2024-03-15|
-|[广州东华职业学院2024年人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/129747.html)|2024-02-04|Invalid Time Format|
-|[邯郸应用技术职业学院2024年度招聘公告](http://www.gaoxiaojob.com/announcement/detail/113269.html)|2024-02-04|Invalid Time Format|
-|[电子科大长三角研究院（衢州）2024年博士学位行政工作人员招聘启事](http://www.gaoxiaojob.com/announcement/detail/132285.html)|2024-02-04|Invalid Time Format|
-|[电子科技大学长三角研究院空天微波遥感重点实验室2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/136924.html)|2024-02-04|Invalid Time Format|
-|[安徽三联学院2024年人才招聘简章](http://www.gaoxiaojob.com/announcement/detail/94024.html)|2024-02-04|Invalid Time Format|
-|[广州市教育研究院博士后创新实践基地、博士工作站2024年招聘博士后研究人员的公告](http://www.gaoxiaojob.com/announcement/detail/141693.html)|2024-02-04|Invalid Time Format|
-|[沈阳工学院2024年诚聘高层次人才公告](http://www.gaoxiaojob.com/announcement/detail/8334.html)|2024-02-02|Invalid Time Format|
-|[合肥科技职业学院2024年人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/219.html)|2024-02-02|Invalid Time Format|
-|[厦门大学嘉庚学院2023-2024年人才招聘启事](http://www.gaoxiaojob.com/announcement/detail/11430.html)|2024-02-02|Invalid Time Format|
-|[西湖实验室/西湖大学生命科学学院 陶亮实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/113744.html)|2024-02-02|Invalid Time Format|
-|[西湖实验室/西湖大学生命科学学院 孙一实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/113745.html)|2024-02-02|Invalid Time Format|
-|[西湖实验室/西湖大学生命科学学院 宋春青实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/113746.html)|2024-02-02|Invalid Time Format|
-|[西湖实验室/西湖大学生命科学学院 党波波实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/113798.html)|2024-02-02|Invalid Time Format|
-|[南宁学院2024年公开招聘专任教师公告（第一批）](http://www.gaoxiaojob.com/announcement/detail/117177.html)|2024-02-02|2024-04-30|
-|[浙江大学生命演化研究中心张国捷组博士后2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/122884.html)|2024-02-02|Invalid Time Format|
-|[安阳工学院高层次人才招聘简章](http://www.gaoxiaojob.com/announcement/detail/45615.html)|2024-02-02|Invalid Time Format|
-|[中国科学技术大学2024年诚聘特任副研究员（特任高级工程师）暨博士后](http://www.gaoxiaojob.com/announcement/detail/127971.html)|2024-02-02|Invalid Time Format|
-|[广东省智能科学与技术研究院—认知智能计算平台运维工程师招聘](http://www.gaoxiaojob.com/announcement/detail/128198.html)|2024-02-02|Invalid Time Format|
-|[重庆理工职业学院2024年人才招聘方案](http://www.gaoxiaojob.com/announcement/detail/52794.html)|2024-02-02|Invalid Time Format|
-|[浙江大学杭州国际科创中心-科研项目团队-博士后和工程师序列-2024年招聘计划](http://www.gaoxiaojob.com/announcement/detail/10627.html)|2024-02-02|Invalid Time Format|
-|[深圳理工大学（筹）马克思主义学院2024年教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/133170.html)|2024-02-02|Invalid Time Format|
-|[湖州师范学院2024年诚聘高层次人才（教师）公告](http://www.gaoxiaojob.com/announcement/detail/1293.html)|2024-02-01|Invalid Time Format|
-|[重庆智能工程职业学院2024年公开招聘简章](http://www.gaoxiaojob.com/announcement/detail/4501.html)|2024-02-01|Invalid Time Format|
-|[厦门华天涉外职业技术学院2024年上半年招聘启事  ](http://www.gaoxiaojob.com/announcement/detail/22771.html)|2024-02-01|Invalid Time Format|
-|[上海工商外国语职业学院2024年招聘简章](http://www.gaoxiaojob.com/announcement/detail/110592.html)|2024-02-01|Invalid Time Format|
-|[广西外国语学院2024年公开招聘高层次人才公告](http://www.gaoxiaojob.com/announcement/detail/122091.html)|2024-02-01|Invalid Time Format|
-|[阳光学院2024年相关教师、工程师招聘公告](http://www.gaoxiaojob.com/announcement/detail/127444.html)|2024-02-01|Invalid Time Format|
-|[南京工业大学浦江学院2024年教师岗位招聘公告](http://www.gaoxiaojob.com/announcement/detail/130204.html)|2024-02-01|Invalid Time Format|
-|[青岛大学转化医学研究院2024年高薪招聘海内外优秀人才](http://www.gaoxiaojob.com/announcement/detail/12971.html)|2024-02-01|Invalid Time Format|
-|[不负春光、不负梦想良渚实验室诚邀您加盟](http://www.gaoxiaojob.com/announcement/detail/15692.html)|2024-01-31|Invalid Time Format|
-|[阳光学院2024年教务处处长/副处长招聘公告](http://www.gaoxiaojob.com/announcement/detail/126975.html)|2024-01-31|Invalid Time Format|
-|[柳州工学院2024年柔性人才（退休或在职人员均可应聘）招聘计划](http://www.gaoxiaojob.com/announcement/detail/126977.html)|2024-01-31|Invalid Time Format|
-|[中国科学院物理研究所2024年面向海内外高薪招聘博士后研究人员](http://www.gaoxiaojob.com/announcement/detail/13436.html)|2024-01-31|Invalid Time Format|
-|[广州新华学院2024年高层次人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/89139.html)|2024-01-31|Invalid Time Format|
-|[硅湖职业技术学院2024年招聘启事](http://www.gaoxiaojob.com/announcement/detail/13059.html)|2024-01-31|Invalid Time Format|
-|[西湖实验室王寿文实验室助理研究员/副研究员招聘启事](http://www.gaoxiaojob.com/announcement/detail/135806.html)|2024-01-31|Invalid Time Format|
-|[南京工业大学浦江学院2024年招聘（学院专职辅导员）公告](http://www.gaoxiaojob.com/announcement/detail/140858.html)|2024-01-31|Invalid Time Format|
-|[新疆大学2024年高层次人才引进公告](http://www.gaoxiaojob.com/announcement/detail/12604.html)|2024-01-30|Invalid Time Format|
-|[北京师范大学-香港浸会大学联合国际学院（珠海）2024年招聘简章](http://www.gaoxiaojob.com/announcement/detail/14937.html)|2024-01-30|Invalid Time Format|
-|[最新招聘！高层次人才，湘潭大学等你来！](http://www.gaoxiaojob.com/announcement/detail/9074.html)|2024-01-30|Invalid Time Format|
-|[广州软件学院2024年中青年博士招聘启事](http://www.gaoxiaojob.com/announcement/detail/3265.html)|2024-01-30|Invalid Time Format|
-|[50万起—浙江大学生命演化研究中心与阿里巴巴2024年联合招聘多名博士后](http://www.gaoxiaojob.com/announcement/detail/122901.html)|2024-01-30|Invalid Time Format|
-|[广东省智能科学与技术研究院—脑机接口与人机交互联合实验室招聘公告](http://www.gaoxiaojob.com/announcement/detail/619.html)|2024-01-30|Invalid Time Format|
-|[170多个岗位等你来！浙江大学杭州国际科创中心-博士后-2024年招聘计划](http://www.gaoxiaojob.com/announcement/detail/32607.html)|2024-01-30|Invalid Time Format|
-|[浙江建设技师学院2024年编外人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/132905.html)|2024-01-30|Invalid Time Format|
-|[大连海事大学2024年专任教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/169.html)|2024-01-29|Invalid Time Format|
-|[广州城建职业学院2024年春季专任教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/19423.html)|2024-01-29|Invalid Time Format|
-|[福州软件职业技术学院2024年招聘信息](http://www.gaoxiaojob.com/announcement/detail/3468.html)|2024-01-29|Invalid Time Format|
-|[西安工商学院2024年2-3月人才招聘启事](http://www.gaoxiaojob.com/announcement/detail/33215.html)|2024-01-29|Invalid Time Format|
-|[信阳航空职业学院2024年春季人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/17072.html)|2024-01-29|2024-03-04|
-|[海聚英才，携手同行——中国科大诚邀海内外英才加盟](http://www.gaoxiaojob.com/announcement/detail/21798.html)|2024-01-29|Invalid Time Format|
-|[重庆电讯职业学院2024年软件工程师招聘公告](http://www.gaoxiaojob.com/announcement/detail/118503.html)|2024-01-29|Invalid Time Format|
-|[中国民航飞行学院2024年高层次人才引进公告（成都天府新校区建设诚聘优秀博士人才）](http://www.gaoxiaojob.com/announcement/detail/85680.html)|2024-01-29|Invalid Time Format|
-|[广东白云学院2024年大数据与计算机学院教师招聘启事](http://www.gaoxiaojob.com/announcement/detail/129084.html)|2024-01-29|Invalid Time Format|
-|[广东白云学院2024年诚聘小学教育专业教师](http://www.gaoxiaojob.com/announcement/detail/129118.html)|2024-01-29|Invalid Time Format|
-|[高层次人才请留步！待遇优厚，面向全球！智慧绿洲邀您共创未来！](http://www.gaoxiaojob.com/announcement/detail/90848.html)|2024-01-29|Invalid Time Format|
-|[上海中侨职业技术大学2024年心理教师招聘](http://www.gaoxiaojob.com/announcement/detail/129798.html)|2024-01-29|Invalid Time Format|
-|[南昌理工学院2024年高层次人才招聘启事](http://www.gaoxiaojob.com/announcement/detail/112816.html)|2024-01-29|Invalid Time Format|
-|[上海交通大学医学院附属第九人民医院吴皓/王立平课题组2024年联合招聘博士后](http://www.gaoxiaojob.com/announcement/detail/132931.html)|2024-01-29|Invalid Time Format|
-|[浙江大学杭州国际科创中心-半导体研究院-工程师-2024年招聘计划](http://www.gaoxiaojob.com/announcement/detail/17927.html)|2024-01-29|Invalid Time Format|
-|[四川三河职业学院关于2023-2024年人才引进的公告](http://www.gaoxiaojob.com/announcement/detail/136361.html)|2024-01-29|2024-08-21|
-|[中国科学院分子细胞科学卓越创新中心孙兵组2024年招聘博士后](http://www.gaoxiaojob.com/announcement/detail/138191.html)|2024-01-29|Invalid Time Format|
-|[招聘 | 中国科学院声学研究所2024年秋季校园招聘](http://www.gaoxiaojob.com/announcement/detail/141226.html)|2024-01-29|Invalid Time Format|
-|[湖大粤港澳大湾区创新研究院（广州增城）综合事务部高级专员招聘公告](http://www.gaoxiaojob.com/announcement/detail/141651.html)|2024-01-29|Invalid Time Format|
-|[湖大粤港澳大湾区创新研究院（广州增城）管理服务岗位招聘公告](http://www.gaoxiaojob.com/announcement/detail/141650.html)|2024-01-29|Invalid Time Format|
-|[青岛黄海学院2024年人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/24668.html)|2024-01-26|Invalid Time Format|
-|[暨南大学附属第一医院2024年博士后招聘公告](http://www.gaoxiaojob.com/announcement/detail/105957.html)|2024-01-26|Invalid Time Format|
-|[南昌理工学院2024年菁英双师型教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/131084.html)|2024-01-26|Invalid Time Format|
-|[郑州城建职业学院2024年招聘启事](http://www.gaoxiaojob.com/announcement/detail/81978.html)|2024-01-26|Invalid Time Format|
-|[开封职业学院2024年招聘校长办公室秘书](http://www.gaoxiaojob.com/announcement/detail/139008.html)|2024-01-26|Invalid Time Format|
-|[共青科技职业学院2023-2024年人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/729.html)|2024-01-25|Invalid Time Format|
-|[南方科技大学系统设计与智能制造学院2024年实验教学岗招聘启事](http://www.gaoxiaojob.com/announcement/detail/119137.html)|2024-01-25|Invalid Time Format|
-|[肇庆市肇院实验学校（原肇庆学院附属中学）2024年教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/349.html)|2024-01-25|Invalid Time Format|
-|[浙江大学生命演化研究中心“百人计划”研究员2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/122905.html)|2024-01-25|2024-05-31|
-|[阳光学院人工智能学院2024年教师招聘计划](http://www.gaoxiaojob.com/announcement/detail/123795.html)|2024-01-25|Invalid Time Format|
-|[广东白云学院2024年电气与信息工程学院教师招聘启事](http://www.gaoxiaojob.com/announcement/detail/129082.html)|2024-01-25|Invalid Time Format|
-|[广东白云学院2024年智能制造工程学院教师招聘启事](http://www.gaoxiaojob.com/announcement/detail/129083.html)|2024-01-25|Invalid Time Format|
-|[厦门大学附属心血管病医院张翠芳课题组2024年诚聘副研究员/博士后/科研助理](http://www.gaoxiaojob.com/announcement/detail/132284.html)|2024-01-25|Invalid Time Format|
-|[广东科技学院2024年公开招聘博士研究生公告](http://www.gaoxiaojob.com/announcement/detail/5804.html)|2024-01-24|Invalid Time Format|
-|[浙江省台州学院2024年高层次人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/71638.html)|2024-01-24|Invalid Time Format|
-|[云南工程职业学院2024年公开招聘公告](http://www.gaoxiaojob.com/announcement/detail/16796.html)|2024-01-24|Invalid Time Format|
-|[渤海大学2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/84418.html)|2024-01-24|Invalid Time Format|
-|[常州大学自然与合成有机化学研究院2024年长期诚聘英才](http://www.gaoxiaojob.com/announcement/detail/11001.html)|2024-01-24|Invalid Time Format|
-|[深圳大学理论经济学博士后流动站2024年博士后招聘简章](http://www.gaoxiaojob.com/announcement/detail/389.html)|2024-01-24|Invalid Time Format|
-|[浙江大学杭州国际科创中心-智能传感与微机电系统实验室-工程师-2024年招聘计划](http://www.gaoxiaojob.com/announcement/detail/133976.html)|2024-01-24|Invalid Time Format|
-|[珠海科技学院2024年诚聘中青年杰出人才、重点（紧缺）专业人才](http://www.gaoxiaojob.com/announcement/detail/60664.html)|2024-01-24|Invalid Time Format|
-|[深圳湾实验室孙勇奎课题组2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/142540.html)|2024-01-24|Invalid Time Format|
-|[南宁理工学院（原桂林理工大学博文管理学院）2024年人才招聘计划](http://www.gaoxiaojob.com/announcement/detail/32720.html)|2024-01-23|Invalid Time Format|
-|[广州理工学院2024年诚招工程、经济、艺术设计领域双师型教师公告](http://www.gaoxiaojob.com/announcement/detail/48972.html)|2024-01-23|Invalid Time Format|
-|[香港科技大学（广州）2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/38166.html)|2024-01-23|Invalid Time Format|
-|[湖南信息学院2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/54575.html)|2024-01-23|Invalid Time Format|
-|[广州理工学院2024年专任教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/67458.html)|2024-01-23|Invalid Time Format|
-|[北海艺术设计学院2024年人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/37897.html)|2024-01-23|Invalid Time Format|
-|[石家庄铁道大学2024年诚聘海内外优秀人才](http://www.gaoxiaojob.com/announcement/detail/10180.html)|2024-01-23|Invalid Time Format|
-|[湖南高尔夫旅游职业学院2024年春季招聘公告](http://www.gaoxiaojob.com/announcement/detail/60390.html)|2024-01-23|Invalid Time Format|
-|[四川轻化工大学2023-2024学年师资引进政策](http://www.gaoxiaojob.com/announcement/detail/119346.html)|2024-01-23|Invalid Time Format|
-|[招贤纳士|浙江大学长三角智慧绿洲创新中心未来城市（智能绿建）实验室2024年诚邀加盟](http://www.gaoxiaojob.com/announcement/detail/122088.html)|2024-01-23|Invalid Time Format|
-|[招贤纳士|浙江大学长三角智慧绿洲创新中心未来城市（未来水务）实验室2024年诚邀加盟！](http://www.gaoxiaojob.com/announcement/detail/122092.html)|2024-01-23|Invalid Time Format|
-|[上海邦德职业技术学院2024年师资招聘计划](http://www.gaoxiaojob.com/announcement/detail/5266.html)|2024-01-23|Invalid Time Format|
-|[浙江大学伊利诺伊大学厄巴纳香槟校区联合学院2024年电子与计算机实验室实验员（工程师）岗位招聘](http://www.gaoxiaojob.com/announcement/detail/125253.html)|2024-01-23|Invalid Time Format|
-|[上海师范大学天华学院2024年度高层次人才招聘启事](http://www.gaoxiaojob.com/announcement/detail/3206.html)|2024-01-23|Invalid Time Format|
-|[成都体育学院2024年人才招引（博士、高级职称）公告](http://www.gaoxiaojob.com/announcement/detail/99229.html)|2024-01-23|Invalid Time Format|
-|[浙江大学杭州国际科创中心-生物生产机器人实验室-博士后-2024年招聘计划](http://www.gaoxiaojob.com/announcement/detail/132828.html)|2024-01-23|Invalid Time Format|
-|[广州实验室徐涛课题组2024年公开招聘](http://www.gaoxiaojob.com/announcement/detail/133975.html)|2024-01-23|Invalid Time Format|
-|[山东省风湿免疫病转化医学重点实验室2024年临床免疫转化医学实验室博士后、助理研究员、实习研究员招聘](http://www.gaoxiaojob.com/announcement/detail/134858.html)|2024-01-23|Invalid Time Format|
-|[成都体育学院2024年招聘博士后公告](http://www.gaoxiaojob.com/announcement/detail/178.html)|2024-01-23|Invalid Time Format|
-|[浙江省激光智能装备技术创新中心2024年全球招聘主任公告](http://www.gaoxiaojob.com/announcement/detail/139405.html)|2024-01-23|Invalid Time Format|
-|[浙江省激光智能装备技术创新中心2024年人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/139406.html)|2024-01-23|Invalid Time Format|
-|[上海药物研究所黄河课题组2024年招聘启事](http://www.gaoxiaojob.com/announcement/detail/140324.html)|2024-01-23|Invalid Time Format|
-|[浙江农林大学暨阳学院2023年专任教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/11426.html)|2024-01-22|Invalid Time Format|
-|[福州工商学院（原福建农林大学东方学院）2024年创新创业创造学院教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/118141.html)|2024-01-22|Invalid Time Format|
-|[广州实验室康乐院士课题组2024年公开招聘](http://www.gaoxiaojob.com/announcement/detail/125846.html)|2024-01-22|Invalid Time Format|
-|[温州理工学院2024年面向全球引进海内外高层次人才](http://www.gaoxiaojob.com/announcement/detail/4786.html)|2024-01-22|Invalid Time Format|
-|[广州华立学院2024年人事处行政岗位招聘启事](http://www.gaoxiaojob.com/announcement/detail/132827.html)|2024-01-22|Invalid Time Format|
-|[浙江大学杭州国际科创中心-信息与功能材料研究院传感材料与器件团队-博士后-2024年招聘计划](http://www.gaoxiaojob.com/announcement/detail/132826.html)|2024-01-22|Invalid Time Format|
-|[浙江大学杭州国际科创中心-农业机器人实验室-博士后-2024年招聘计划](http://www.gaoxiaojob.com/announcement/detail/133968.html)|2024-01-22|Invalid Time Format|
-|[上海交通大学医学院覃文新课题组2024年博士后招聘](http://www.gaoxiaojob.com/announcement/detail/133359.html)|2024-01-22|Invalid Time Format|
-|[深圳北理莫斯科大学诚聘英才公告](http://www.gaoxiaojob.com/announcement/detail/9083.html)|2024-01-22|Invalid Time Format|
-|[广州珠江职业技术学院2024年上半年招聘计划](http://www.gaoxiaojob.com/announcement/detail/141224.html)|2024-01-22|Invalid Time Format|
-|[浙江开放大学2024年度招聘预计划](http://www.gaoxiaojob.com/announcement/detail/85679.html)|2024-01-22|Invalid Time Format|
-|[ 福州理工学院2024年行政教辅招聘计划](http://www.gaoxiaojob.com/announcement/detail/1846.html)|2024-01-19|Invalid Time Format|
-|[燕京理工学院2023年1-2月人才引进计划](http://www.gaoxiaojob.com/announcement/detail/37114.html)|2024-01-19|Invalid Time Format|
-|[福州墨尔本理工职业学院2024年人才招聘启事](http://www.gaoxiaojob.com/announcement/detail/72.html)|2024-01-19|2024-02-18|
-|[招贤纳士|浙江大学长三角智慧绿洲创新中心未来环境实验室2024年诚邀加盟](http://www.gaoxiaojob.com/announcement/detail/122087.html)|2024-01-19|Invalid Time Format|
-|[浙江大学生命演化研究中心刘昊轩组博士后2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/122907.html)|2024-01-19|Invalid Time Format|
-|[宁波工程学院2024年高层次人才（教师）招聘公告](http://www.gaoxiaojob.com/announcement/detail/70474.html)|2024-01-19|Invalid Time Format|
-|[西安电子科技大学杭州研究院2024年全球招聘](http://www.gaoxiaojob.com/announcement/detail/105138.html)|2024-01-19|Invalid Time Format|
-|[佛山梅沙双语学校2024年招聘启事](http://www.gaoxiaojob.com/announcement/detail/128810.html)|2024-01-19|Invalid Time Format|
-|[福州工商学院（原福建农林大学东方学院）2024年财务资产管理处招聘公告](http://www.gaoxiaojob.com/announcement/detail/131543.html)|2024-01-19|Invalid Time Format|
-|[香港中文大学（深圳）设备与资产管理处2024年经理（论证验收采购）招聘启事](http://www.gaoxiaojob.com/announcement/detail/132725.html)|2024-01-19|2024-02-29|
-|[泉州轻工职业学院2024年宣传招生处行政兼教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/134177.html)|2024-01-19|Invalid Time Format|
-|[广东省智能科学与技术研究院——脑认知神经网络发育和疾病研究组研究助理招聘](http://www.gaoxiaojob.com/announcement/detail/142275.html)|2024-01-19|Invalid Time Format|
-|[浙江大学杭州国际科创中心-微纳电子学院-前沿技术研究所-博士后-2024年招聘计划](http://www.gaoxiaojob.com/announcement/detail/142398.html)|2024-01-19|Invalid Time Format|
-|[中国农业科学院（深圳）农业基因组研究所基因组所Yuwen Liu课题组2024年诚聘科研人员](http://www.gaoxiaojob.com/announcement/detail/1968.html)|2024-01-18|Invalid Time Format|
-|[山东外国语职业技术大学2024年高层次高技能人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/352.html)|2024-01-18|Invalid Time Format|
-|[福州工商学院（原福建农林大学东方学院）2024年高层次人才招聘启事](http://www.gaoxiaojob.com/announcement/detail/3648.html)|2024-01-18|Invalid Time Format|
-|[广东省智能科学与技术研究院—脑机元宇宙数字融合联合实验室博士后招聘](http://www.gaoxiaojob.com/announcement/detail/122188.html)|2024-01-18|Invalid Time Format|
-|[泉州信息工程学院2023年教辅、行政岗位招聘计划](http://www.gaoxiaojob.com/announcement/detail/182.html)|2024-01-18|Invalid Time Format|
-|[中国农业科学院（深圳）农业基因组研究所食品中心2024年热诚欢迎高层次人才加盟](http://www.gaoxiaojob.com/announcement/detail/126548.html)|2024-01-18|Invalid Time Format|
-|[广州华立科技职业学院2023-2024学年招聘公告(二)](http://www.gaoxiaojob.com/announcement/detail/129869.html)|2024-01-18|Invalid Time Format|
-|[香港中文大学（深圳）微电子学院筹建办公室2024年主管招聘启事](http://www.gaoxiaojob.com/announcement/detail/132458.html)|2024-01-18|2024-02-29|
-|[香港中文大学（深圳）医学院陈吉航项目2024年博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/133609.html)|2024-01-18|2024-03-31|
-|[北京理工大学2023年博士后研究人员招聘公告](http://www.gaoxiaojob.com/announcement/detail/136251.html)|2024-01-18|Invalid Time Format|
-|[上海外国语大学贤达经济人文学院2024年学生管理服务中心招聘辅导员、学生心理咨询师](http://www.gaoxiaojob.com/announcement/detail/139007.html)|2024-01-18|Invalid Time Format|
-|[山东外国语职业技术大学2024年教职工招聘公告](http://www.gaoxiaojob.com/announcement/detail/7203.html)|2024-01-17|Invalid Time Format|
-|[上海外国语大学贤达经济人文学院2024年人才引进计划](http://www.gaoxiaojob.com/announcement/detail/43002.html)|2024-01-17|Invalid Time Format|
-|[广东岭南职业技术学院2024年高层次人才招聘简章](http://www.gaoxiaojob.com/announcement/detail/51030.html)|2024-01-17|2024-01-31|
-|[常州工学院2024年高层次人才招聘启事](http://www.gaoxiaojob.com/announcement/detail/13747.html)|2024-01-17|Invalid Time Format|
-|[吉利学院2024年教师、辅导员招聘公告（成都校区）](http://www.gaoxiaojob.com/announcement/detail/61122.html)|2024-01-17|Invalid Time Format|
-|[浙江大学长三角智慧绿洲创新中心2024年博士后招聘启事-朱亮教授课题组（合作导师含莱斯大学师资）](http://www.gaoxiaojob.com/announcement/detail/115845.html)|2024-01-17|Invalid Time Format|
-|[招贤纳士|浙江大学长三角智慧绿洲创新中心2024年未来区域发展实验室诚邀加盟！](http://www.gaoxiaojob.com/announcement/detail/119339.html)|2024-01-17|Invalid Time Format|
-|[成都纺织高等专科学校2024年高层次人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/653.html)|2024-01-17|Invalid Time Format|
-|[湖州职业技术学院2023年高层次人才引进公告](http://www.gaoxiaojob.com/announcement/detail/39185.html)|2024-01-17|Invalid Time Format|
-|[清华大学能源与动力工程系岳光溪院士团队2024年招聘博士后启事](http://www.gaoxiaojob.com/announcement/detail/124379.html)|2024-01-17|Invalid Time Format|
-|[西湖实验室西湖多维动态代谢组学核心实验室科研助理招聘启事](http://www.gaoxiaojob.com/announcement/detail/126549.html)|2024-01-17|Invalid Time Format|
-|[河北大学马克思主义学院2024年教学科研岗位招聘启事](http://www.gaoxiaojob.com/announcement/detail/39675.html)|2024-01-17|Invalid Time Format|
-|[浙江大学杭州国际科创中心-高纯化学品智造课题组-博士后-2024年招聘计划](http://www.gaoxiaojob.com/announcement/detail/131027.html)|2024-01-17|Invalid Time Format|
-|[浙大杭州国际科创中心-先进半导体研究院-全球引才序列-2024年招聘计划](http://www.gaoxiaojob.com/announcement/detail/10195.html)|2024-01-17|Invalid Time Format|
-|[江西洪州职业学院2024年人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/30936.html)|2024-01-17|Invalid Time Format|
-|[台州科技职业学院2023年下半年公开招聘工作人员公告](http://www.gaoxiaojob.com/announcement/detail/138171.html)|2024-01-17|2024-02-29|
-|[重庆电讯职业学院2024年城市轨道交通运营管理专业教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/138830.html)|2024-01-17|Invalid Time Format|
+|[重庆对外经贸学院2024年公开招聘科级行政管理干部公告](http://www.gaoxiaojob.com/announcement/detail/143536.html)|2024-02-08||
+|[重庆对外经贸学院2024年公开招聘马克思主义学院院长公告](http://www.gaoxiaojob.com/announcement/detail/145777.html)|2024-02-08||
+|[中国科学院宁波材料技术与工程研究所-生物基高分子材料团队-新型高性能聚酯科研助理-招聘公告](http://www.gaoxiaojob.com/announcement/detail/148080.html)|2024-02-08|2024-03-06|
+|[中国科学院宁波材料技术与工程研究所-微纳功能材料与应用研究团队-纳米功能材料/增材制造方向博士后-招聘公告](http://www.gaoxiaojob.com/announcement/detail/148085.html)|2024-02-08|2024-09-30|
+|[重庆对外经贸学院2024年招聘博士后研究人员公告](http://www.gaoxiaojob.com/announcement/detail/149721.html)|2024-02-08||
+|[西湖实验室/西湖大学生命科学学院裴唯珂实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/150038.html)|2024-02-08||
+|[泉州职业技术大学2024年教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/43662.html)|2024-02-08||
+|[中国科学院大学现代农业科学学院张玉芹课题组招聘植物激素的转运方向博士后（长期有效）](http://www.gaoxiaojob.com/announcement/detail/168324.html)|2024-02-08||
+|[广东省智能科学与技术研究院——感觉与情绪的神经网络研究组2024年博士后招聘公告](http://www.gaoxiaojob.com/announcement/detail/168896.html)|2024-02-08||
+|[清华大学人事处（教学发展高级专员）2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/177351.html)|2024-02-08||
+|[清华大学电子工程系2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/177353.html)|2024-02-08||
+|[西湖大学工学院人工智能与生物医学影像实验室科研助理招聘启事](http://www.gaoxiaojob.com/announcement/detail/115108.html)|2024-02-07||
+|[西湖大学工学院SAWAN实验室招聘科研助理（微纳加工）](http://www.gaoxiaojob.com/announcement/detail/115121.html)|2024-02-07||
+|[西湖疾病模型核心实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/115117.html)|2024-02-07||
+|[西湖实验室李旭实验室助理研究员招聘启事](http://www.gaoxiaojob.com/announcement/detail/115568.html)|2024-02-07||
+|[青岛大学肿瘤研究院2024年诚邀新药、器械、诊断方向医工研创新实战型青年人才](http://www.gaoxiaojob.com/announcement/detail/9086.html)|2024-02-07||
+|[深圳市第二人民医院2024年博士后招收简章](http://www.gaoxiaojob.com/announcement/detail/75810.html)|2024-02-07||
+|[北京航空航天大学宁波创新研究院2024年高层次人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/49960.html)|2024-02-07||
+|[西湖大学计算机教师招聘广告](http://www.gaoxiaojob.com/announcement/detail/145918.html)|2024-02-07||
+|[西湖大学化学教师招聘广告](http://www.gaoxiaojob.com/announcement/detail/145919.html)|2024-02-07||
+|[中国科学院宁波材料技术与工程研究所-磁电子材料与器件团队-柔性电子材料与器件项目开发与管理项目工程师-招聘公告](http://www.gaoxiaojob.com/announcement/detail/148081.html)|2024-02-07|2024-12-31|
+|[中国科学院宁波材料技术与工程研究所-碳纤维及其复合材料团队-碳纤维结构设计方向博士后-招聘公告](http://www.gaoxiaojob.com/announcement/detail/148680.html)|2024-02-07|2024-12-31|
+|[西湖实验室/西湖大学生命科学学院裴唯珂实验室(再生医学与力学生物学交叉学科方向)博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/149546.html)|2024-02-07||
+|[中国农业科学院（深圳）农业基因组研究所2024年热诚欢迎高层次人才加盟](http://www.gaoxiaojob.com/announcement/detail/3497.html)|2024-02-07||
+|[上海外国语大学2024学年教学科研人员招聘启事 （第一批次）](http://www.gaoxiaojob.com/announcement/detail/160658.html)|2024-02-07|2024-05-15|
+|[重庆电讯职业学院2024面向社会公开招聘校长助理的公告](http://www.gaoxiaojob.com/announcement/detail/160661.html)|2024-02-07||
+|[中国科学院上海药物研究所刁星星课题组2024年招聘人体样品处理和分析人员](http://www.gaoxiaojob.com/announcement/detail/164007.html)|2024-02-07||
+|[中国科学院大学化学科学学院伦正言课题组2024年储能材料方向招聘公告](http://www.gaoxiaojob.com/announcement/detail/80693.html)|2024-02-07||
+|[广东省智能科学与技术研究院——高性能智能计算课题组2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/168653.html)|2024-02-07||
+|[广东省智能科学与技术研究院——神经细胞图谱与认知网络研究组2024年博士后招聘](http://www.gaoxiaojob.com/announcement/detail/168326.html)|2024-02-07||
+|[上海外国语大学人工智能数据工程中心技术2024年开发人员招聘启事](http://www.gaoxiaojob.com/announcement/detail/169397.html)|2024-02-07|2024-02-18|
+|[广东省特种设备检测研究院东莞检测院2024年招聘预告](http://www.gaoxiaojob.com/announcement/detail/174261.html)|2024-02-07||
+|[清华大学学生职业发展指导中心2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/177236.html)|2024-02-07||
+|[清华大学生命科学学院2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/177237.html)|2024-02-07||
+|[中国科学院动物研究所器官再生与智造重点实验室2024年诚聘助理研究员和博士后](http://www.gaoxiaojob.com/announcement/detail/185915.html)|2024-02-07||
+|[清华大学附属中学国际部2024年招聘语文教师和采购助理](http://www.gaoxiaojob.com/announcement/detail/186714.html)|2024-02-07||
+|[义乌工商职业技术学院2024年高层次人才引进招聘公告](http://www.gaoxiaojob.com/announcement/detail/186708.html)|2024-02-07|2024-12-31|
+|[北京航空航天大学宁波创新研究院2024年博士后招聘公告](http://www.gaoxiaojob.com/announcement/detail/186711.html)|2024-02-07||
+|[广州国家实验室2024年诚聘海外优秀人才](http://www.gaoxiaojob.com/announcement/detail/186709.html)|2024-02-07||
+|[中山大学材料学院2024年诚邀全球英才依托申报海外优青](http://www.gaoxiaojob.com/announcement/detail/186988.html)|2024-02-07||
+|[义乌工商职业技术学院2024年引进26名高层次人才公告](http://www.gaoxiaojob.com/announcement/detail/186733.html)|2024-02-07|2024-12-31|
+|[山东女子学院2024年诚邀英才依托申报海外优青项目](http://www.gaoxiaojob.com/announcement/detail/186989.html)|2024-02-07|2024-04-15|
+|[南京医科大学2024年招聘高层次人才](http://www.gaoxiaojob.com/announcement/detail/186734.html)|2024-02-07||
+|[复旦大学基础医学院2024年诚邀全球英才依托申报海外优青](http://www.gaoxiaojob.com/announcement/detail/186991.html)|2024-02-07||
+|[天津中医药大学2024年公开招聘“双一流”高层次人才岗位人员方案](http://www.gaoxiaojob.com/announcement/detail/186995.html)|2024-02-07|2024-12-31|
+|[江苏经贸职业技术学院2024年长期公开招聘高层次人才公告](http://www.gaoxiaojob.com/announcement/detail/186997.html)|2024-02-07|2024-12-24|
+|[天津中医药大学2024年2月公开招聘少数民族辅导员岗位人员方案](http://www.gaoxiaojob.com/announcement/detail/186998.html)|2024-02-07|2024-02-29|
+|[华北水利水电大学2024年招聘博士公告](http://www.gaoxiaojob.com/announcement/detail/186999.html)|2024-02-07||
+|[合肥师范学院2024年度引进高层次人才公告](http://www.gaoxiaojob.com/announcement/detail/187001.html)|2024-02-07||
+|[安徽师范大学2024年诚邀海外优秀青年人才依托申报海外优青项目](http://www.gaoxiaojob.com/announcement/detail/187002.html)|2024-02-07||
+|[南昌大学食品学院2024年招聘博士后公告](http://www.gaoxiaojob.com/announcement/detail/187009.html)|2024-02-07||
+|[西湖大学生命科学学院李小波实验室（能量代谢复合体结构与功能研究方向）招聘博士后启事](http://www.gaoxiaojob.com/announcement/detail/187010.html)|2024-02-07||
+|[湖南中医药大学2024年面向全球诚聘博士后](http://www.gaoxiaojob.com/announcement/detail/187011.html)|2024-02-07||
+|[天津财经大学珠江学院2024年招聘教师简章](http://www.gaoxiaojob.com/announcement/detail/186763.html)|2024-02-07||
+|[沈阳科技学院2024年招聘高层次人才、专任教师、实验技术人员公告](http://www.gaoxiaojob.com/announcement/detail/186764.html)|2024-02-07|2024-02-29|
+|[国家开放大学实验学院2024年2月公开招聘兼职课程辅导教师【第一批】](http://www.gaoxiaojob.com/announcement/detail/187023.html)|2024-02-07|2024-02-15|
+|[复旦大学生命科学学院2024年度诚邀海外青年英才依托申报海外优青](http://www.gaoxiaojob.com/announcement/detail/186787.html)|2024-02-07||
+|[北京农学院2024年度诚邀全球英才依托申报国家优青（海外）项目](http://www.gaoxiaojob.com/announcement/detail/186788.html)|2024-02-07||
+|[郑州工业应用技术学院就业与勤工俭学处关于2024年2月公开招聘就业创业类兼职教师的公告](http://www.gaoxiaojob.com/announcement/detail/187044.html)|2024-02-07|2024-02-18|
+|[浙江大学能源工程学院严建华教授团队2024年招聘人才启事](http://www.gaoxiaojob.com/announcement/detail/187048.html)|2024-02-07||
+|[南京财经大学2024年公开招聘教学科研岗人员公告（第一批）](http://www.gaoxiaojob.com/announcement/detail/187051.html)|2024-02-07|2024-08-28|
+|[赣南科技学院2024年引进高层次人才公告](http://www.gaoxiaojob.com/announcement/detail/187052.html)|2024-02-07||
+|[长江职业学院2024年公开招聘高层次人才公告](http://www.gaoxiaojob.com/announcement/detail/186806.html)|2024-02-07|2024-12-31|
+|[厦门大学台湾研究院2024年招聘启事](http://www.gaoxiaojob.com/announcement/detail/186807.html)|2024-02-07||
+|[广安职业技术学院（四川玄武岩纤维新材料研究院）关于2024年公开招聘4名非在编人员的公告（第1次）](http://www.gaoxiaojob.com/announcement/detail/186808.html)|2024-02-07|2024-02-23|
+|[南京航空航天大学民航学院2024年2月招聘1名劳务派遣岗位人员启事](http://www.gaoxiaojob.com/announcement/detail/186842.html)|2024-02-07|2024-02-25|
+|[清华大学深圳国际研究生院2024年招聘1名学位论文管理专员](http://www.gaoxiaojob.com/announcement/detail/186843.html)|2024-02-07|2024-02-21|
+|[集宁师范学院2024年引进6名硕士人才公告](http://www.gaoxiaojob.com/announcement/detail/186844.html)|2024-02-07|2024-03-02|
+|[清华大学深圳国际研究生院2024年招聘1名纪监办公室纪监督查专员](http://www.gaoxiaojob.com/announcement/detail/186845.html)|2024-02-07||
+|[湖北大学2024年招聘博士后公告](http://www.gaoxiaojob.com/announcement/detail/186846.html)|2024-02-07||
+|[江苏科技大学2024年招聘“首席科学家工程”团队人才及科研助理公告](http://www.gaoxiaojob.com/announcement/detail/186847.html)|2024-02-07|2024-03-15|
+|[复旦大学脑科学研究院诸颖课题组2024年诚聘1名博士后](http://www.gaoxiaojob.com/announcement/detail/186849.html)|2024-02-07||
+|[西湖大学生命科学学院邹贻龙实验室博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/186887.html)|2024-02-07||
+|[上海交通大学医学院（上海市病毒研究院郑杰课题组）2024年招聘2名博士后启事](http://www.gaoxiaojob.com/announcement/detail/186899.html)|2024-02-07||
+|[上海交通大学医学院（上海市病毒研究院管轶教授课题组）2024年招聘全职博士后启事](http://www.gaoxiaojob.com/announcement/detail/186900.html)|2024-02-07||
+|[武汉体育学院2024年诚邀全球英才依托申报海外优青项目](http://www.gaoxiaojob.com/announcement/detail/186906.html)|2024-02-07|2024-03-31|
+|[东南大学数学学院2024年诚邀全球青年英才依托申报海外优青](http://www.gaoxiaojob.com/announcement/detail/186907.html)|2024-02-07||
+|[中山大学人工智能学院2024年诚邀全球青年学者依托申报海外优青项目](http://www.gaoxiaojob.com/announcement/detail/186925.html)|2024-02-07||
+|[西湖大学智能生物医学技术中心西湖人工智能药物设计核心实验室（抗体药物与疾病靶点方向）博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/186926.html)|2024-02-07||
+|[西湖大学智能生物医学技术中心西湖人工智能药物设计核心实验室（蛋白质设计方向）博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/186943.html)|2024-02-07||
+|[云南财经大学2024年公开招聘7名硕士及以上学位工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186949.html)|2024-02-07|2024-03-01|
+|[东南大学2024年招聘实验技术岗位人员公告（第一批）](http://www.gaoxiaojob.com/announcement/detail/186953.html)|2024-02-07|2024-02-20|
+|[厦门城市职业学院（厦门开放大学）2024年招聘34名人才简章](http://www.gaoxiaojob.com/announcement/detail/186954.html)|2024-02-07|2024-12-31|
+|[西湖大学生命科学学院贾洁敏课题组博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/186955.html)|2024-02-07||
+|[西湖大学生命科学学院杨涛实验室（系统神经科学与生物医学光子学）科研助理招聘启事](http://www.gaoxiaojob.com/announcement/detail/186957.html)|2024-02-07||
+|[义乌工商职业技术学院2024年专业带头人及高技能人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/186713.html)|2024-02-07|2024-12-31|
+|[重庆大学药学院2024年诚邀全球英才依托申报优青项目（海外）](http://www.gaoxiaojob.com/announcement/detail/186968.html)|2024-02-07|2024-04-15|
+|[哈尔滨工程大学智能科学与工程学院2024年诚邀全球英才依托申报海外优青](http://www.gaoxiaojob.com/announcement/detail/186969.html)|2024-02-07||
+|[湖南大学信息科学与工程学院谢鲲教授团队2024年招聘全职博士后研究人员](http://www.gaoxiaojob.com/announcement/detail/186718.html)|2024-02-07||
+|[湖南大学电气与信息工程学院帅智康教授团队2024年招聘全职博士后研究人员](http://www.gaoxiaojob.com/announcement/detail/186719.html)|2024-02-07||
+|[天津中医药大学2024年公开招聘博士等岗位人员方案](http://www.gaoxiaojob.com/announcement/detail/186981.html)|2024-02-07|2024-12-31|
+|[中国科学院脑科学与智能技术卓越创新中心2024年招聘青年研究员信息](http://www.gaoxiaojob.com/announcement/detail/186990.html)|2024-02-07||
+|[中国科学院脑科学与智能技术卓越创新中心2024年招聘研究助理职位人员](http://www.gaoxiaojob.com/announcement/detail/187007.html)|2024-02-07||
+|[南方电网能源发展研究院有限责任公司2024年全球招募博士后公告](http://www.gaoxiaojob.com/announcement/detail/187008.html)|2024-02-07||
+|[中国科学院上海天文台天文地球动力学研究中心2024年招聘1名行星磁场及其辐射环境研究岗位人员公告](http://www.gaoxiaojob.com/announcement/detail/186760.html)|2024-02-07||
+|[中国科学院上海天文台天文地球动力学研究中心2024年招聘1名行星磁场测量及仿真研究岗位人员公告](http://www.gaoxiaojob.com/announcement/detail/186761.html)|2024-02-07||
+|[中国科学院上海天文台天文地球动力学研究中心2024年招聘1名红外星表编制研究岗位人员公告](http://www.gaoxiaojob.com/announcement/detail/186762.html)|2024-02-07||
+|[广东省科学院广州地理研究所2024年诚邀全球英才申报海外优青项目](http://www.gaoxiaojob.com/announcement/detail/186786.html)|2024-02-07|2024-04-15|
+|[中国人民银行金融研究所2024年度公开招聘3名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/187043.html)|2024-02-07|2024-02-27|
+|[广西水电设计院博士后工作站2024年招收博士后研究人员启事](http://www.gaoxiaojob.com/announcement/detail/187046.html)|2024-02-07||
+|[中国科学院沈阳应用生态研究所环境污染过程与效应创新组群2024年招聘启事（事业编制人员、特别研究助理）](http://www.gaoxiaojob.com/announcement/detail/186804.html)|2024-02-07||
+|[中国科学院动物研究所（北京干细胞与再生医学研究院）干细胞微环境与细胞命运决定研究组2024年招聘博士后启事](http://www.gaoxiaojob.com/announcement/detail/186805.html)|2024-02-07||
+|[中国中医科学院中药研究所马海课题组2024年招聘2名科研助理启事](http://www.gaoxiaojob.com/announcement/detail/186841.html)|2024-02-07||
+|[中国科学院亚热带农业生态研究所2024年度引进海内外高层次人才启事](http://www.gaoxiaojob.com/announcement/detail/186892.html)|2024-02-07||
+|[中国科学院深海科学与工程研究所2024年招聘1名工作人员启事（二）](http://www.gaoxiaojob.com/announcement/detail/186893.html)|2024-02-07|2024-02-29|
+|[中国科学院上海天文台天文地球动力学研究中心2024年招聘1名自主可控的星表编制研究项目主管岗位人员公告](http://www.gaoxiaojob.com/announcement/detail/186894.html)|2024-02-07||
+|[中国科学院上海天文台射电天文科学与技术研究室VLBI中心2024年招聘1名数据处理分析岗位人员公告](http://www.gaoxiaojob.com/announcement/detail/186895.html)|2024-02-07||
+|[中国科学院上海天文台射电天文科学与技术研究室SKA区域中心2024年招聘1名支撑科学家岗位人员公告](http://www.gaoxiaojob.com/announcement/detail/186896.html)|2024-02-07||
+|[中国科学院脑科学与智能技术卓越创新中心国际灵长类脑研究中心Dr. Vishal Kapoor研究组2024年招聘1名实验室管家](http://www.gaoxiaojob.com/announcement/detail/186897.html)|2024-02-07||
+|[中国科学院科技战略咨询研究院2024年招聘5名智库科学与工程方向助理研究员启事](http://www.gaoxiaojob.com/announcement/detail/186898.html)|2024-02-07|2024-04-06|
+|[中国热带农业科学院橡胶研究所2024年诚邀全球青年人才依托申报海外优青项目](http://www.gaoxiaojob.com/announcement/detail/186923.html)|2024-02-07|2024-04-10|
+|[中国环境科学研究院2024年诚邀优秀人才依托申报海外优青项目](http://www.gaoxiaojob.com/announcement/detail/186924.html)|2024-02-07|2024-04-15|
+|[中国社会科学评价研究院机构与智库评价研究室2024年2月招聘1名编制外聘用人员启事](http://www.gaoxiaojob.com/announcement/detail/186948.html)|2024-02-07|2024-02-25|
+|[河南省科学院2024年诚邀全球英才依托申报海外优青项目](http://www.gaoxiaojob.com/announcement/detail/186956.html)|2024-02-07|2024-04-10|
+|[上海交通大学医学院刘培峰课题组2024年度博士后招聘](http://www.gaoxiaojob.com/announcement/detail/186710.html)|2024-02-07||
+|[中国科学院脑科学与智能技术卓越创新中心2024年招聘博士后研究人员](http://www.gaoxiaojob.com/announcement/detail/186960.html)|2024-02-07||
+|[中国科学院分子细胞科学卓越创新中心韩硕组2024年招聘博士后](http://www.gaoxiaojob.com/announcement/detail/186712.html)|2024-02-07||
+|[中国农业科学院蔬菜花卉研究所2024年诚邀全球英才依托申报海外优青](http://www.gaoxiaojob.com/announcement/detail/186967.html)|2024-02-07||
+|[中国人民银行数字货币研究所2024年度公开招聘工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186977.html)|2024-02-07|2024-02-27|
+|[中国农业科学院农业信息研究所科学数据研究室2024年招聘1名编制外数据产品开发人员](http://www.gaoxiaojob.com/announcement/detail/186978.html)|2024-02-07||
+|[中国科学院赣江创新研究院2024年2月招聘职能部门中层副职管理岗位人员启事](http://www.gaoxiaojob.com/announcement/detail/186979.html)|2024-02-07|2024-02-29|
+|[江苏省社会科学院2024年公开招聘工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186980.html)|2024-02-07|2024-03-31|
+|[中国人民银行机关服务中心2024年度公开招聘6名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186992.html)|2024-02-07|2024-02-29|
+|[云南省曲靖经济技术开发区事业单位2024年委托公开遴选53名工作人员公告（含遴选计划）](http://www.gaoxiaojob.com/announcement/detail/186993.html)|2024-02-07|2024-03-01|
+|[西藏林芝经济开发区管理委员会2024年2月招聘1名人员](http://www.gaoxiaojob.com/announcement/detail/186994.html)|2024-02-07|2024-02-09|
+|[四川省资中县商务发展事务中心2024年公开招聘2名就业见习人员的公告](http://www.gaoxiaojob.com/announcement/detail/186747.html)|2024-02-07||
+|[贵州省威宁县2024年面向社会公开招聘197名事业单位工作人员简章](http://www.gaoxiaojob.com/announcement/detail/187003.html)|2024-02-07|2024-02-28|
+|[四川省高县农民工服务中心关于2024年招聘4名就业见习岗位人员的公告](http://www.gaoxiaojob.com/announcement/detail/186748.html)|2024-02-07||
+|[广西合浦县人民法院2024年公开招聘12名司法辅助人员公告](http://www.gaoxiaojob.com/announcement/detail/187004.html)|2024-02-07|2024-02-20|
+|[江西省都昌县就业创业服务中心2024年招聘就业见习人员](http://www.gaoxiaojob.com/announcement/detail/186749.html)|2024-02-07||
+|[广东省惠州市惠城区人民检察院2024年2月招聘2名见习人员](http://www.gaoxiaojob.com/announcement/detail/186750.html)|2024-02-07|2024-04-30|
+|[广东省惠东县稔山镇2024年公开招聘2名村（社区）“两委”班子储备人选公告](http://www.gaoxiaojob.com/announcement/detail/186753.html)|2024-02-07|2024-02-19|
+|[广西大新县城乡综合执法管理局2024年2月招聘4名协管员公告](http://www.gaoxiaojob.com/announcement/detail/187019.html)|2024-02-07|2024-02-23|
+|[常州老年大学关于2024年2月面向社会公开推荐（自荐）兼职教师、专业课程负责人、总辅导员的启事](http://www.gaoxiaojob.com/announcement/detail/187020.html)|2024-02-07||
+|[世界无线局域网应用发展联盟2024年招聘1名标委会秘书公告](http://www.gaoxiaojob.com/announcement/detail/186766.html)|2024-02-07|2024-04-30|
+|[江西省赣州市红十字博爱基金会2024年度招聘公告](http://www.gaoxiaojob.com/announcement/detail/186767.html)|2024-02-07|2024-02-29|
+|[中国人民银行郑州培训学院2024年度公开招聘12名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/187029.html)|2024-02-07|2024-02-29|
+|[云南省曲靖市事业单位2024年委托公开招聘1611名工作人员公告（含委托招聘计划）](http://www.gaoxiaojob.com/announcement/detail/186774.html)|2024-02-07|2024-03-01|
+|[新疆生产建设兵团农十四师皮山农场2024年度招聘40名连队（社区）专职网格员公告](http://www.gaoxiaojob.com/announcement/detail/186775.html)|2024-02-07|2024-02-09|
+|[陕西省宁陕县县级机关2024年公开选拔调配9名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/187031.html)|2024-02-07|2024-02-20|
+|[贵州省金沙县2024年面向社会公开招聘153名事业单位工作人员简章](http://www.gaoxiaojob.com/announcement/detail/186776.html)|2024-02-07|2024-02-28|
+|[新疆克州2024年柔性引进124名紧缺人才公告](http://www.gaoxiaojob.com/announcement/detail/187032.html)|2024-02-07|2024-02-29|
+|[贵州省赫章县2024年面向社会公开招聘123名事业单位工作人员简章](http://www.gaoxiaojob.com/announcement/detail/186777.html)|2024-02-07|2024-02-28|
+|[江西省安福县公安局2024年2月招聘1名人员](http://www.gaoxiaojob.com/announcement/detail/187033.html)|2024-02-07|2024-02-08|
+|[广西百色市2024年度事业单位公开招聘工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186778.html)|2024-02-07|2024-02-23|
+|[四川省雅安市老年大学2024年2月招聘兼职教师公告](http://www.gaoxiaojob.com/announcement/detail/187034.html)|2024-02-07||
+|[贵州省思南县2024年事业单位公开招聘143名工作人员简章](http://www.gaoxiaojob.com/announcement/detail/187035.html)|2024-02-07|2024-02-28|
+|[贵州省毕节高新技术产业开发区2024年面向社会公开招聘8名事业单位工作人员简章](http://www.gaoxiaojob.com/announcement/detail/187036.html)|2024-02-07|2024-02-28|
+|[四川省南溪公安2024年2月公开招聘8名人员](http://www.gaoxiaojob.com/announcement/detail/187037.html)|2024-02-07|2024-02-09|
+|[安徽省庐江县直单位会计核算代理中心2024年2月公开招聘2名政府购买服务人员公告](http://www.gaoxiaojob.com/announcement/detail/187040.html)|2024-02-07|2024-02-08|
+|[中国共产主义青年团广州市南沙区委员会2024年2月招聘1名编外人员公告](http://www.gaoxiaojob.com/announcement/detail/186789.html)|2024-02-07|2024-02-28|
+|[云南省昭通市2024年事业单位公开招聘1936名工作人员通告（第一号）](http://www.gaoxiaojob.com/announcement/detail/186790.html)|2024-02-07|2024-03-01|
+|[云南省曲靖市麒麟区部分事业单位2024年委托公开遴选52名工作人员公告（含遴选计划）](http://www.gaoxiaojob.com/announcement/detail/186791.html)|2024-02-07|2024-03-01|
+|[广西玉林市事业单位2024年上半年公开招聘17名应征入伍普通高校毕业生公告](http://www.gaoxiaojob.com/announcement/detail/186792.html)|2024-02-07|2024-02-21|
+|[广东省始兴县青少年宫2024年2月诚聘3名兼职老师公告](http://www.gaoxiaojob.com/announcement/detail/187049.html)|2024-02-07|2024-02-22|
+|[舟山市青少年活动中心2024年2月招聘1名人员](http://www.gaoxiaojob.com/announcement/detail/187050.html)|2024-02-07|2024-02-09|
+|[浙江省海盐老年大学2024年2月招聘兼职教师公告](http://www.gaoxiaojob.com/announcement/detail/187053.html)|2024-02-07||
+|[广西象州县公安局2024年第一次招聘7名辅警通告](http://www.gaoxiaojob.com/announcement/detail/187055.html)|2024-02-07|2024-02-18|
+|[广东省博罗县人力资源和社会保障局2024年公开遴选1名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/187056.html)|2024-02-07|2024-02-22|
+|[常州市钟楼区法院2024年2月公开招聘4名警务辅助人员简章](http://www.gaoxiaojob.com/announcement/detail/187057.html)|2024-02-07|2024-02-28|
+|[民航华东空管局2024年春季招聘12名应届毕业生公告](http://www.gaoxiaojob.com/announcement/detail/187063.html)|2024-02-07|2024-03-22|
+|[国家药品监督管理局医疗器械技术审评检查长三角分中心2024年度公开招聘25名员额制人员公告](http://www.gaoxiaojob.com/announcement/detail/187064.html)|2024-02-07|2024-03-06|
+|[云南省保山市事业单位2024年公开招聘494名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/187065.html)|2024-02-07|2024-03-01|
+|[温州科技馆2024年2月公开招聘5名编外聘用人员公告](http://www.gaoxiaojob.com/announcement/detail/187066.html)|2024-02-07|2024-02-20|
+|[四川省宜宾市叙州生态环境保护宣传教育中心关于2024年2月公开选调2名工作人员的公告](http://www.gaoxiaojob.com/announcement/detail/187067.html)|2024-02-07|2024-02-21|
+|[广西钦州市钦南公安分局关于2024年面向社会公开招聘38名警务辅助人员的公告](http://www.gaoxiaojob.com/announcement/detail/186813.html)|2024-02-07|2024-02-29|
+|[福建省惠安县委老干部局2024年招聘1名工作人员信息](http://www.gaoxiaojob.com/announcement/detail/186814.html)|2024-02-07||
+|[四川省遂宁市青少年宫2024年2月招聘编外兼职教师](http://www.gaoxiaojob.com/announcement/detail/187069.html)|2024-02-07||
+|[安徽省固镇县事业单位2024年公开招聘25名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186815.html)|2024-02-07|2024-02-24|
+|[重庆市铜梁区公安局2024年2月招聘104名警务辅助岗位工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186828.html)|2024-02-07|2024-03-14|
+|[长安杂志社2024年度公开招聘3名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186830.html)|2024-02-07|2024-03-05|
+|[温州市龙湾区审计局2024年2月公开招聘1名临时工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186832.html)|2024-02-07|2024-02-21|
+|[新疆博乐市边控中心2024年招聘3名工作人员信息](http://www.gaoxiaojob.com/announcement/detail/186851.html)|2024-02-07||
+|[生态环境部信息中心2024年公开招聘工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186853.html)|2024-02-07|2024-02-29|
+|[江西省吉安12345热线2024年招聘20名工作人员信息](http://www.gaoxiaojob.com/announcement/detail/186854.html)|2024-02-07|2024-02-10|
+|[中国人民银行征信中心2024年度公开招聘工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186908.html)|2024-02-07|2024-03-01|
+|[浙江省永康市社会治理中心2024年2月招聘1名编外工作人员简章](http://www.gaoxiaojob.com/announcement/detail/186909.html)|2024-02-07|2024-02-23|
+|[云南省曲靖市市属事业单位2024年委托公开遴选21名工作人员公告（含遴选计划）](http://www.gaoxiaojob.com/announcement/detail/186910.html)|2024-02-07|2024-03-01|
+|[金融时报社2024年度公开招聘6名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186911.html)|2024-02-07|2024-02-29|
+|[杭州市西湖区志愿服务指导中心2024年2月招聘1名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186912.html)|2024-02-07|2024-02-20|
+|[国家民委直属事业单位2024年公开招聘51名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186914.html)|2024-02-07|2024-02-20|
+|[贵州省黔西市2024年面向社会公开招聘299名事业单位工作人员简章](http://www.gaoxiaojob.com/announcement/detail/186915.html)|2024-02-07|2024-02-28|
+|[广西钦州市事业单位2024年公开招聘工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186916.html)|2024-02-07|2024-02-23|
+|[福州市红庙岭垃圾综合处理中心2024年2月招聘1名工作人员的公告](http://www.gaoxiaojob.com/announcement/detail/186917.html)|2024-02-07|2024-02-29|
+|[福建省漳州市政府投资项目评审中心2024年2月公开招聘2名非在编专业技术人员公告](http://www.gaoxiaojob.com/announcement/detail/186918.html)|2024-02-07|2024-02-22|
+|[云南省师宗县事业单位2024年委托公开遴选12名工作人员公告（含遴选计划）](http://www.gaoxiaojob.com/announcement/detail/186927.html)|2024-02-07|2024-03-01|
+|[云南省曲靖市事业单位2024年定向招聘工作人员公告（含定向招聘计划）](http://www.gaoxiaojob.com/announcement/detail/186928.html)|2024-02-07|2024-03-01|
+|[内蒙古达茂旗2024年2月公开招聘43名社区工作者简章](http://www.gaoxiaojob.com/announcement/detail/186929.html)|2024-02-07|2024-02-24|
+|[贵州省纳雍县2024年面向社会公开招聘50名事业单位工作人员简章](http://www.gaoxiaojob.com/announcement/detail/186930.html)|2024-02-07|2024-02-28|
+|[中国房地产估价师与房地产经纪人学会2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/186937.html)|2024-02-07|2024-05-30|
+|[云南省西双版纳州统计局2024年招聘3名普查指导员的公告](http://www.gaoxiaojob.com/announcement/detail/186938.html)|2024-02-07|2024-02-20|
+|[陕西省宁陕县关于2024年上半年公开选调15名事业单位工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186939.html)|2024-02-07|2024-02-20|
+|[江西省南昌县东新乡团委2024年2月“青英归巢智汇昌南” 招聘20名返家乡人员简章](http://www.gaoxiaojob.com/announcement/detail/186940.html)|2024-02-07|2024-02-19|
+|[广西贵港市事业单位2024年公开招聘705名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186941.html)|2024-02-07|2024-02-23|
+|[东莞市发展和改革局下属事业单位2024年公开招聘1名人员公告](http://www.gaoxiaojob.com/announcement/detail/186942.html)|2024-02-07|2024-02-26|
+|[云南省德宏州事业单位2024年公开考试招聘306名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186970.html)|2024-02-07|2024-03-01|
+|[中国日报社新媒体中心2024年面向社会公开招聘13名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186715.html)|2024-02-07|2024-02-29|
+|[四川省内江市东兴区教育和体育局关于2024年面向东兴区公开遴选5名工作人员的公告](http://www.gaoxiaojob.com/announcement/detail/186971.html)|2024-02-07|2024-02-22|
+|[江西省瑞昌市发展和改革委员会2024年2月招聘2名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186972.html)|2024-02-07|2024-02-20|
+|[浙江省嘉兴市综合行政执法信息指挥中心2024年2月公开招聘8名岗位合同工公告](http://www.gaoxiaojob.com/announcement/detail/186725.html)|2024-02-07|2024-02-20|
+|[江西省上栗工业园2024年面向社会公开招聘5名合同制工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186726.html)|2024-02-07|2024-02-24|
+|[广西防城港市2024年度公开招聘153名市本级事业单位工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186727.html)|2024-02-07|2024-02-23|
+|[黑龙江省鸡东县公办幼儿园2024年公开招聘26名幼儿教师公告](http://www.gaoxiaojob.com/announcement/detail/186735.html)|2024-02-07|2024-02-29|
+|[贵阳市观山湖区外国语实验中学2024年春季学期面向社会择优招聘临聘教师公告](http://www.gaoxiaojob.com/announcement/detail/186736.html)|2024-02-07||
+|[福建省莆田妈祖中学2024年正在招聘7名人员](http://www.gaoxiaojob.com/announcement/detail/186737.html)|2024-02-07|2024-03-06|
+|[桂林市琴潭实验学校2024年招聘2名教师信息公告](http://www.gaoxiaojob.com/announcement/detail/186738.html)|2024-02-07||
+|[桂林市崇善龙光小学2024年招聘教师信息](http://www.gaoxiaojob.com/announcement/detail/186739.html)|2024-02-07||
+|[贵州省兴仁市公办学校2024年招聘27名编制外教学辅助人员公告](http://www.gaoxiaojob.com/announcement/detail/186740.html)|2024-02-07||
+|[广州市天河区第一实验小学2024年2月招聘1名编外聘用制专任教师公告](http://www.gaoxiaojob.com/announcement/detail/186741.html)|2024-02-07|2024-02-16|
+|[广东省茂名市崇文学校2024年招聘政府购买服务人员公告](http://www.gaoxiaojob.com/announcement/detail/186742.html)|2024-02-07||
+|[安徽省界首市公办幼儿园2024年公开招聘56名派遣制教师公告](http://www.gaoxiaojob.com/announcement/detail/186743.html)|2024-02-07|2024-02-22|
+|[江西省黎川县职业中专学校2024年招聘2名计算机专业实训教师公告](http://www.gaoxiaojob.com/announcement/detail/187000.html)|2024-02-07|2024-02-18|
+|[湖南师大附中雨花学校2024年春季招聘合同制教师公告](http://www.gaoxiaojob.com/announcement/detail/186751.html)|2024-02-07||
+|[湖南师大附中星沙实验学校2024年春季招聘教师公告](http://www.gaoxiaojob.com/announcement/detail/186752.html)|2024-02-07|2024-02-18|
+|[四川省芦山中学2024年招聘2名代课教师公告](http://www.gaoxiaojob.com/announcement/detail/187012.html)|2024-02-07|2024-02-19|
+|[湖南省长沙县湘珺未来学校2024年招聘1名初中数学教师公告](http://www.gaoxiaojob.com/announcement/detail/187013.html)|2024-02-07||
+|[广州市天河区珠江新城猎德幼儿园2024年2月招聘3名编外聘用制专任教师公告](http://www.gaoxiaojob.com/announcement/detail/187014.html)|2024-02-07|2024-02-15|
+|[浙江省苍南县职业中等专业学校2024年招聘编外教师通知](http://www.gaoxiaojob.com/announcement/detail/187022.html)|2024-02-07|2024-02-12|
+|[四川省射洪市金华中学2024年面向社会公开招聘2名非编制优秀教师的公告](http://www.gaoxiaojob.com/announcement/detail/186768.html)|2024-02-07||
+|[深圳市南山区御景峰幼儿园2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/186769.html)|2024-02-07||
+|[长沙市雨花区枫树山东南海小学2024年春季招聘合同制教师公告](http://www.gaoxiaojob.com/announcement/detail/187025.html)|2024-02-07|2024-02-20|
+|[深圳市龙岗区南湾街道南岭村第一幼儿园2024年2月招聘1名资产管理员启事](http://www.gaoxiaojob.com/announcement/detail/186770.html)|2024-02-07|2024-02-16|
+|[江西省吉安市直行政事业单位2024年2月招聘9名编外工作人员公告（四十二）](http://www.gaoxiaojob.com/announcement/detail/186771.html)|2024-02-07|2024-02-16|
+|[桂林市回民小学招聘2024年春季学期招聘1名信息学科临聘教师信息](http://www.gaoxiaojob.com/announcement/detail/186772.html)|2024-02-07||
+|[成都市实验中学2024年招聘多学科教师信息](http://www.gaoxiaojob.com/announcement/detail/186773.html)|2024-02-07||
+|[浙江省东阳市教育系统2024年2月招聘雇员制教师公告](http://www.gaoxiaojob.com/announcement/detail/186780.html)|2024-02-07|2024-02-25|
+|[芜湖市繁昌区2024年招引19名教育高层次人才（教师招聘）公告](http://www.gaoxiaojob.com/announcement/detail/186781.html)|2024-02-07|2024-02-27|
+|[四川省射洪市太和中学关于2024年春季面向社会公开招聘4名非编制优秀教师的公告](http://www.gaoxiaojob.com/announcement/detail/186782.html)|2024-02-07||
+|[杭州市胜利小学附属幼儿园2024年2月招聘1名编外工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186783.html)|2024-02-07|2024-02-18|
+|[辽宁省本溪市高级中学附属学校高中部2024年2月面向辽宁师范大学、沈阳师范大学、渤海大学及鞍山师范学院毕业生招聘6名教师公告](http://www.gaoxiaojob.com/announcement/detail/187045.html)|2024-02-07|2024-02-16|
+|[湖南省邵阳县教育局2024年面向全县在职在编教师公开选聘14名专职教研员公告](http://www.gaoxiaojob.com/announcement/detail/187047.html)|2024-02-07|2024-03-01|
+|[珠海市香洲区恒华容惠幼儿园2024年招聘教师信息](http://www.gaoxiaojob.com/announcement/detail/186795.html)|2024-02-07||
+|[重庆市渝北区黄桷坪幼儿园2024年2月招聘启事](http://www.gaoxiaojob.com/announcement/detail/186796.html)|2024-02-07|2024-02-08|
+|[厦门市海沧区蓝月湾幼儿园2024年2月招聘1名人员信息](http://www.gaoxiaojob.com/announcement/detail/186797.html)|2024-02-07|2024-02-08|
+|[珠海市第二中学2024年招聘3名临聘教师公告](http://www.gaoxiaojob.com/announcement/detail/187054.html)|2024-02-07|2024-02-08|
+|[中山市南区竹秀园中心小学2024年招聘1名临聘教师公告](http://www.gaoxiaojob.com/announcement/detail/187060.html)|2024-02-07|2024-02-08|
+|[深圳市宝安区西乡固戍东山幼儿园2024年招聘2名工作人员启事](http://www.gaoxiaojob.com/announcement/detail/187061.html)|2024-02-07|2024-02-15|
+|[厦门市翔安区马巷第一中心幼儿园2023—2024学年补充招聘非在编合同教师及编外聘用人员公告](http://www.gaoxiaojob.com/announcement/detail/187062.html)|2024-02-07|2024-02-18|
+|[云南省梁河县教育体育系统2024年考核招聘12名紧缺专业学科优秀人才公告](http://www.gaoxiaojob.com/announcement/detail/187068.html)|2024-02-07||
+|[福建省宁德市市直学校关于2024年公开招聘新任教师工作的通知](http://www.gaoxiaojob.com/announcement/detail/187070.html)|2024-02-07|2024-03-14|
+|[广东省茂名市电白区海滨幼儿园2024年2月招聘启事](http://www.gaoxiaojob.com/announcement/detail/186818.html)|2024-02-07||
+|[广东省河源市源城区第一中学2024年春季学期招聘临聘教师（历史、语文）公告](http://www.gaoxiaojob.com/announcement/detail/186819.html)|2024-02-07||
+|[福建省莆田第八中学2024年2月诚聘高中代课教师](http://www.gaoxiaojob.com/announcement/detail/186821.html)|2024-02-07|2024-02-17|
+|[深圳市龙岗区龙岗街道龙西第一幼儿园2024年招聘1名人员启事](http://www.gaoxiaojob.com/announcement/detail/187088.html)|2024-02-07|2024-02-17|
+|[厦门市翔安教育集团科技幼儿园2024年2月招聘1名临聘教师](http://www.gaoxiaojob.com/announcement/detail/186848.html)|2024-02-07||
+|[厦门市第十中学关于2024年2月招聘5名非在编教师的公告](http://www.gaoxiaojob.com/announcement/detail/186850.html)|2024-02-07|2024-02-19|
+|[广州市黄埔区广钢华标幼儿园2024年2月招聘公告](http://www.gaoxiaojob.com/announcement/detail/186852.html)|2024-02-07||
+|[杭州市建兰中学2024年招聘3名编外教师公告](http://www.gaoxiaojob.com/announcement/detail/186855.html)|2024-02-07|2024-04-30|
+|[海南省儋州市2024年公开招聘50名小学教师公告（一）](http://www.gaoxiaojob.com/announcement/detail/186856.html)|2024-02-07|2024-02-25|
+|[桂林市宁远小学2024年招聘1名科学老师启事](http://www.gaoxiaojob.com/announcement/detail/186857.html)|2024-02-07||
+|[桂林市桂岭小学2024年招聘2名数学学科教师信息](http://www.gaoxiaojob.com/announcement/detail/186858.html)|2024-02-07||
+|[广州市番禺区小谷围街中心幼儿园关于2024年公开招聘1名编外教职工的通告](http://www.gaoxiaojob.com/announcement/detail/186859.html)|2024-02-07|2024-02-19|
+|[福建省莆田华侨职业中专学校关于2024年2月招聘8名外聘教师的公告](http://www.gaoxiaojob.com/announcement/detail/186860.html)|2024-02-07|2024-02-19|
+|[福建省平潭城关中学2024年春季招聘2名临聘（代课）教师公告](http://www.gaoxiaojob.com/announcement/detail/186861.html)|2024-02-07|2024-02-18|
+|[福建省晋江市灵源街道林口中心幼儿园2024年招聘公告（教师、保育员）](http://www.gaoxiaojob.com/announcement/detail/186862.html)|2024-02-07||
+|[电子科技大学附属中学•四川省成都华西中学2024年招聘2名工作人员启事](http://www.gaoxiaojob.com/announcement/detail/186863.html)|2024-02-07|2024-02-16|
+|[成都市青羊区教育科学研究院附属实验学校2024年招聘校聘储备中学教师公告](http://www.gaoxiaojob.com/announcement/detail/186864.html)|2024-02-07||
+|[江西省轻工业科技中等专业学校2024年上半年招聘4名教师公告](http://www.gaoxiaojob.com/announcement/detail/186872.html)|2024-02-07|2024-02-23|
+|[湖南省岳阳市湘一南湖学校2024年招聘中小学各科骨干教师（不招应届生）公告](http://www.gaoxiaojob.com/announcement/detail/186873.html)|2024-02-07||
+|[湖南省有色金属中等专业学校2024春季学期招聘5名课时费教师公告](http://www.gaoxiaojob.com/announcement/detail/186874.html)|2024-02-07|2024-02-23|
+|[天津市天外大附属北辰光华外国语学校2024年2月招聘教师公告](http://www.gaoxiaojob.com/announcement/detail/186875.html)|2024-02-07|2024-02-26|
+|[四川省隆昌市向阳路幼儿园2024年招聘4名见习人员](http://www.gaoxiaojob.com/announcement/detail/186876.html)|2024-02-07||
+|[陕西省子洲中学2024年面向全国招聘10名名优教师的公告](http://www.gaoxiaojob.com/announcement/detail/186877.html)|2024-02-07|2024-02-23|
+|[厦门杏南中学2024年2月招聘5名编制外教职工简章](http://www.gaoxiaojob.com/announcement/detail/186878.html)|2024-02-07|2024-03-04|
+|[厦门市梧桐实验学校（厦门市五缘实验学校梧桐分校）2024年2月招聘3名非在编教师简章](http://www.gaoxiaojob.com/announcement/detail/186879.html)|2024-02-07|2024-02-22|
+|[厦门市金林湾实验学校2024年2月招聘2名非编教师简章(小学语文、小学英语)](http://www.gaoxiaojob.com/announcement/detail/186880.html)|2024-02-07||
+|[厦门实验中学关于2024年2月招聘1名顶岗教师的公告](http://www.gaoxiaojob.com/announcement/detail/186881.html)|2024-02-07|2024-02-23|
+|[珠海市第一中学平沙校区（珠海市外国语学校）2024年春季招聘7名临聘教师公告](http://www.gaoxiaojob.com/announcement/detail/186882.html)|2024-02-07||
+|[中山市古镇镇冈东幼儿园2024年招聘信息](http://www.gaoxiaojob.com/announcement/detail/186883.html)|2024-02-07||
+|[浙江省绍兴艺术学校2024年2月公开招聘2名编外工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186884.html)|2024-02-07|2024-02-15|
+|[福建省古田县教育局关于2024年公开招聘教师的通知](http://www.gaoxiaojob.com/announcement/detail/186903.html)|2024-02-07|2024-03-14|
+|[佛山市顺德区北滘镇上僚幼儿园2024年招聘2名工作人员信息](http://www.gaoxiaojob.com/announcement/detail/186904.html)|2024-02-07||
+|[徐州中学2024年面向社会公开招聘15名骨干教师公告](http://www.gaoxiaojob.com/announcement/detail/186919.html)|2024-02-07|2024-03-30|
+|[厦门市同安区同城四季幼儿园2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/186920.html)|2024-02-07|2024-02-15|
+|[湖南省衡阳市第三中学（衡铁一中初中部）2024年2月招聘1名临聘教师公告](http://www.gaoxiaojob.com/announcement/detail/186921.html)|2024-02-07|2024-02-18|
+|[四川省成都市盐道街中学2024年招聘学科教师公告](http://www.gaoxiaojob.com/announcement/detail/186934.html)|2024-02-07||
+|[深圳市光明区玉律学校玉成幼儿园2024年2月公开招聘工作人员的公告](http://www.gaoxiaojob.com/announcement/detail/186935.html)|2024-02-07|2024-02-18|
+|[南宁市2024年公开考试招聘县（市、区）、开发区中小学教师简章](http://www.gaoxiaojob.com/announcement/detail/186936.html)|2024-02-07|2024-02-23|
+|[四川省阆中中学校2024年招聘应届部属公费师范生公告](http://www.gaoxiaojob.com/announcement/detail/186950.html)|2024-02-07|2024-03-31|
+|[天津市嘉诚中学2024年招聘教师方案](http://www.gaoxiaojob.com/announcement/detail/186951.html)|2024-02-07||
+|[珠海市香洲区造贝幼儿园2024年招聘1名临聘教师公告](http://www.gaoxiaojob.com/announcement/detail/186952.html)|2024-02-07|2024-02-13|
+|[湖南省衡阳市衡钢中学2024年招聘3名临聘教师简章](http://www.gaoxiaojob.com/announcement/detail/186961.html)|2024-02-07|2024-02-18|
+|[江西泛美艺术中等专业学校2024年春季招聘教师](http://www.gaoxiaojob.com/announcement/detail/186962.html)|2024-02-07||
+|[杭州市采荷幼儿园2024年2月招聘1名编外工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186982.html)|2024-02-07|2024-02-14|
+|[江西省赣州市第八中学2024年招聘春季顶岗教师启事](http://www.gaoxiaojob.com/announcement/detail/186983.html)|2024-02-07|2024-02-17|
+|[湖南省衡阳市逸夫中学2024年春季招聘2名临聘教师公告](http://www.gaoxiaojob.com/announcement/detail/186984.html)|2024-02-07|2024-02-18|
+|[辽宁省第二荣军优抚医院2024年集中面向社会公开招聘15名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186987.html)|2024-02-07|2024-02-23|
+|[西藏自治区第三人民医院2024年招聘4名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/186744.html)|2024-02-07|2024-02-23|
+|[广东省汕头市潮南区人民医院2024年2月公开招聘85名医学类人员公告](http://www.gaoxiaojob.com/announcement/detail/186745.html)|2024-02-07|2024-03-01|
+|[云南省西畴县鸡街中心卫生院2024年公开招聘5名编外技术人员启事](http://www.gaoxiaojob.com/announcement/detail/187015.html)|2024-02-07|2024-02-19|
+|[皖南医学院第一附属医院（弋矶山医院）2024年度公开招聘39名工作人员（博士、高层次人才）预公告](http://www.gaoxiaojob.com/announcement/detail/187016.html)|2024-02-07||
+|[江西省德安县人民医院2024年招聘合同制医护人员公告](http://www.gaoxiaojob.com/announcement/detail/187017.html)|2024-02-07|2024-02-19|
+|[福州市仓山区金山街道第二社区卫生服务中心2024年2月招聘2名公卫人员](http://www.gaoxiaojob.com/announcement/detail/187018.html)|2024-02-07||
+|[广东省博罗县人民医院2024年招聘76名专业人员公告](http://www.gaoxiaojob.com/announcement/detail/186765.html)|2024-02-07|2024-03-22|
+|[河南中医药大学第三附属医院2024年招聘博士研究生公告](http://www.gaoxiaojob.com/announcement/detail/187024.html)|2024-02-07||
+|[重庆市合川区二郎镇卫生院2024年度招聘非在编护理工作人员简章](http://www.gaoxiaojob.com/announcement/detail/187026.html)|2024-02-07|2024-02-18|
+|[福建医科大学附属第二医院2024年招聘博士学位人员公告](http://www.gaoxiaojob.com/announcement/detail/187027.html)|2024-02-07||
+|[无锡市第二中医医院2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/187028.html)|2024-02-07||
+|[杭州师范大学附属医院2024年2月公开招聘编外聘用人员公告](http://www.gaoxiaojob.com/announcement/detail/187030.html)|2024-02-07|2024-02-29|
+|[海南省保亭黎族苗族自治县医疗集团2024年度公开招聘临床、医技岗位人员公告](http://www.gaoxiaojob.com/announcement/detail/186784.html)|2024-02-07||
 
 
