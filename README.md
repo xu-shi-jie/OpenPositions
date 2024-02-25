@@ -1,6 +1,6 @@
 # 高校人才网最新公告
 
-This is a repository for 高校人才网. Last Update: 2024-02-24 20:13:32 UTC.
+This is a repository for 高校人才网. Last Update: 2024-02-25 20:13:32 UTC.
 ## News List
 
 |标题|发布时间|截止时间|
