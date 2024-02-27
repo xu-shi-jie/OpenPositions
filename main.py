@@ -18,7 +18,6 @@ def fetch_announcements():
     else:
         i = 22
         df = pd.DataFrame(columns=['url', 'page'])
-    
 
     while True:
         url = home_url.format(i)
@@ -29,7 +28,8 @@ def fetch_announcements():
             break
 
         content = response.text
-        ann_url = re.findall(r'www\.gaoxiaojob\.com/announcement/detail/.+?\.html', content)
+        ann_url = re.findall(
+            r'www\.gaoxiaojob\.com/announcement/detail/.+?\.html', content)
         for url in ann_url:
             url = 'http://' + url
             if url not in df['url'].values:
@@ -46,15 +46,16 @@ def fetch_daily():
     daily_url = re.findall(r'href="(/daily/detail/.+?.html)"', content)
     df = pd.read_csv('announcements.csv')
 
-    for url in (pbar:=tqdm(daily_url)):
+    for url in (pbar := tqdm(daily_url)):
         url = 'https://www.gaoxiaojob.com' + url
         pbar.set_description(f"Fetching {url}...")
         response = requests.get(url)
         if response.status_code != 200:
             continue
         content = response.text
-        ann_url = re.findall(r'www\.gaoxiaojob\.com/announcement/detail/.+?\.html', content)
-        
+        ann_url = re.findall(
+            r'www\.gaoxiaojob\.com/announcement/detail/.+?\.html', content)
+
         for _url in ann_url:
             _url = 'http://' + _url
             if _url not in df['url'].values:
@@ -80,20 +81,19 @@ def fetch_daily():
     visited_urls = [url[0] for url in visited_urls]
 
     df = pd.read_csv('announcements.csv')
-    
+
     if Path('expired.txt').exists():
         with open('expired.txt', 'r') as f:
             expired = f.read().split('\n')
     else:
         expired = []
 
-
-    for url in (pbar:=tqdm(df['url'])):
+    for url in (pbar := tqdm(df['url'])):
         if url in expired or url in visited_urls:
             continue
 
         pbar.set_description(f"Inserting {url}...")
-        
+
         try:
             title, publish_time, ddl_time = extract_info(url)
 
@@ -112,6 +112,7 @@ def fetch_daily():
 
     db.close()
 
+
 def extract_info(url):
     content = requests.get(url).text
     title = re.findall(r'title="(.+?)"', content)[0]
@@ -126,28 +127,59 @@ def extract_info(url):
 
     return title, publish_time, ddl_time
 
+
 if __name__ == '__main__':
+    max_count = 200
+    c9_keywords = [
+        '清华', '北京大学', '复旦', '上海交通大学', '西安交通大学',
+        '浙江大学',  '中国科学技术大学',  '南京大学', '哈工大', '哈尔滨工业大学',]
     # fetch_announcements()
-    fetch_daily()
+    # fetch_daily()
+
     ################## write latest 200 announcements to Markdown file ##################
     with open('README.md', 'w') as f:
         f.write('# 高校人才网最新公告\n\n')
-        f.write(f'This is a repository for 高校人才网. Last Update: {datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")} UTC.\n')
+        f.write(
+            f'This is a repository for 高校人才网. Last Update: {datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")} UTC.\n')
+
+        # search not c9 universities
         db = sqlite3.connect('gaoxiaojob.db')
         cursor = db.cursor()
-        cursor.execute('''
-            SELECT * FROM announcements ORDER BY publish_time DESC LIMIT 300
-        ''')
+        cursor.execute(
+            'SELECT * FROM announcements WHERE ' +
+            ' AND '.join(['title NOT LIKE ?' for _ in c9_keywords]),
+            ['%' + k + '%' for k in c9_keywords])  # exclude c9 universities
         data = cursor.fetchall()
         db.close()
-        f.write('## News List\n\n|标题|发布时间|截止时间|\n|---|---|---|\n')
-        for i, row in enumerate(data):
+        data = sorted(data, key=lambda x: x[3], reverse=True)
+        f.write('## News Lists (C9 excluded)\n\n|标题|发布时间|截止时间|\n|---|---|---|\n')
+        for i, row in enumerate(data[:max_count]):
             _, url, title, publish_time, ddl_time = row
             if publish_time == 'Invalid Time Format':
                 publish_time = ''
             if ddl_time == 'Invalid Time Format':
                 ddl_time = ''
 
-            f.write(f'|[{title.replace("|", ":")}]({url})|{publish_time}|{ddl_time}|\n')
+            f.write(
+                f'|[{title.replace("|", ":")}]({url})|{publish_time}|{ddl_time}|\n')
         f.write('\n\n')
-    
+
+        f.write('## C9 News List\n\n|标题|发布时间|截止时间|\n|---|---|---|\n')
+        db = sqlite3.connect('gaoxiaojob.db')
+        cursor = db.cursor()
+        cursor.execute(
+            'SELECT * FROM announcements WHERE ' +
+            ' OR '.join(['title LIKE ?' for _ in c9_keywords]),
+            ['%' + k + '%' for k in c9_keywords])
+        data = cursor.fetchall()
+        db.close()
+        data = sorted(data, key=lambda x: x[3], reverse=True)
+        for i, row in enumerate(data[:max_count]):
+            _, url, title, publish_time, ddl_time = row
+            if publish_time == 'Invalid Time Format':
+                publish_time = ''
+            if ddl_time == 'Invalid Time Format':
+                ddl_time = ''
+
+            f.write(
+                f'|[{title.replace("|", ":")}]({url})|{publish_time}|{ddl_time}|\n')
