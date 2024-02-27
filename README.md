@@ -1,6 +1,8 @@
 # 高校人才网最新公告
 
-This is a repository for 高校人才网. Last Update: 2024-02-27 12:10:29 UTC.
+This is a compiled repository for 高校人才网. Last Update: 2024-02-27 12:32:43 UTC.
+## [Latest 200 Announcements (C9 included)](#c9-news-list) | [Latest 200 Announcements (C9 excluded)](#news-lists-c9-excluded)
+
 ## News Lists (C9 excluded)
 
 |标题|发布时间|截止时间|
@@ -373,6 +375,12 @@ This is a repository for 高校人才网. Last Update: 2024-02-27 12:10:29 UTC.
 |[浙江大学医学院附属妇产科医院2024年招聘6名护理岗位人员启事](http://www.gaoxiaojob.com/announcement/detail/188159.html)|2024-02-21|2024-02-29|
 |[北京大学生命科学学院张迪课题组2024年招聘博士后](http://www.gaoxiaojob.com/announcement/detail/187648.html)|2024-02-20||
 |[西安交通大学特种高分子团队2024年面向海内外诚聘英才](http://www.gaoxiaojob.com/announcement/detail/187652.html)|2024-02-20||
+|[复旦大学药学院2024年2月招聘1名科研办秘书](http://www.gaoxiaojob.com/announcement/detail/187829.html)|2024-02-20|2024-03-15|
+|[北京大学心理与认知科学学院2024年招聘1名劳动合同制工作人员信息](http://www.gaoxiaojob.com/announcement/detail/187669.html)|2024-02-20|2024-03-15|
+|[复旦大学药学院2024年2月招聘1名教学办公室秘书](http://www.gaoxiaojob.com/announcement/detail/187948.html)|2024-02-20|2024-03-10|
+|[复旦大学工程与应用技术研究院2024年2月招聘1名科研学科秘书](http://www.gaoxiaojob.com/announcement/detail/187949.html)|2024-02-20|2024-03-15|
+|[南京大学2024年2月招聘1名人力资源处办公室文员公告（W202402001）](http://www.gaoxiaojob.com/announcement/detail/187954.html)|2024-02-20|2024-02-27|
+|[南京大学2024年2月招聘1名创新创业与成果转化工作办公室行政主管公告（W202402002）](http://www.gaoxiaojob.com/announcement/detail/187956.html)|2024-02-20|2024-03-06|
 |[清华大学核研院2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/187255.html)|2024-02-19||
 |[清华大学五道口金融学院2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/187256.html)|2024-02-19||
 |[清华大学万科公共卫生与健康学院2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/187257.html)|2024-02-19|2024-03-01|
@@ -405,9 +413,3 @@ This is a repository for 高校人才网. Last Update: 2024-02-27 12:10:29 UTC.
 |[清华大学电子工程系2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/177353.html)|2024-02-08||
 |[浙江大学控制科学与工程学院冯冬芹团队2024年招聘劳务派遣人员](http://www.gaoxiaojob.com/announcement/detail/187083.html)|2024-02-08|2024-03-31|
 |[浙江大学公共管理学院岳文泽教授团队2024年招聘全职博士后](http://www.gaoxiaojob.com/announcement/detail/187084.html)|2024-02-08||
-|[上海交通大学海洋装备研究院5G智能制造研究中心2024年招聘1名机电工程师](http://www.gaoxiaojob.com/announcement/detail/187102.html)|2024-02-08|2024-02-20|
-|[西安交通大学继续教育学院2024年2月招聘公告](http://www.gaoxiaojob.com/announcement/detail/187179.html)|2024-02-08|2024-02-20|
-|[上海交通大学机械与动力工程学院机电物流所2024年招聘1名实验室管理人员](http://www.gaoxiaojob.com/announcement/detail/187208.html)|2024-02-08|2024-05-31|
-|[清华大学学生职业发展指导中心2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/177236.html)|2024-02-07||
-|[清华大学生命科学学院2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/177237.html)|2024-02-07||
-|[清华大学附属中学国际部2024年招聘语文教师和采购助理](http://www.gaoxiaojob.com/announcement/detail/186714.html)|2024-02-07||

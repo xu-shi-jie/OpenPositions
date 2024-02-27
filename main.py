@@ -140,7 +140,10 @@ if __name__ == '__main__':
     with open('README.md', 'w') as f:
         f.write('# 高校人才网最新公告\n\n')
         f.write(
-            f'This is a repository for 高校人才网. Last Update: {datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")} UTC.\n')
+            f'This is a compiled repository for 高校人才网. Last Update: {datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")} UTC.\n')
+        # anchor
+        f.write(
+            f'## [Latest 200 Announcements (C9 included)](#c9-news-list) | [Latest 200 Announcements (C9 excluded)](#news-lists-c9-excluded)\n\n')
 
         # search not c9 universities
         db = sqlite3.connect('gaoxiaojob.db')
