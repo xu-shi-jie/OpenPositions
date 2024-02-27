@@ -134,7 +134,7 @@ if __name__ == '__main__':
         '清华', '北京大学', '复旦', '上海交通大学', '西安交通大学',
         '浙江大学',  '中国科学技术大学',  '南京大学', '哈工大', '哈尔滨工业大学',]
     # fetch_announcements()
-    # fetch_daily()
+    fetch_daily()
 
     ################## write latest 200 announcements to Markdown file ##################
     with open('README.md', 'w') as f:
