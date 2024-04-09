@@ -1,6 +1,6 @@
 # 高校人才网最新公告
 
-This is a compiled repository for 高校人才网. Last Update: 2024-04-09 05:12:52 UTC.
+This is a compiled repository for 高校人才网. Last Update: 2024-04-09 07:13:49 UTC.
 ## [Latest 200 Announcements (C9 included)](#c9-news-list) | [Latest 200 Announcements (C9 excluded)](#news-lists-c9-excluded)
 
 ## News Lists (C9 excluded)
