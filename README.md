@@ -1,12 +1,13 @@
 # 高校人才网最新公告
 
-This is a compiled repository for 高校人才网. Last Update: 2024-05-24 07:12:10 UTC.
+This is a compiled repository for 高校人才网. Last Update: 2024-05-25 02:05:42 UTC.
 ## [Latest 200 Announcements (C9 included)](#c9-news-list) | [Latest 200 Announcements (C9 excluded)](#news-lists-c9-excluded)
 
 ## News Lists (C9 excluded)
 
 |标题|发布时间|截止时间|
 |---|---|---|
+|[广西钦州市第二人民医院2024年招聘人才公告（第二批）](http://www.gaoxiaojob.com/announcement/detail/217832.html)|2024-05-23|2024-11-18|
 |[厦门大学医学院张杰教授研究团队2024年科研助理招聘启事](http://www.gaoxiaojob.com/announcement/detail/216332.html)|2024-05-21||
 |[郴州市智能科技职业学院（筹）2024年招聘公告](http://www.gaoxiaojob.com/announcement/detail/215983.html)|2024-05-20||
 |[西部（重庆）科学城2024年招收博士后研究人员简章](http://www.gaoxiaojob.com/announcement/detail/216716.html)|2024-05-20|2024-12-31|
@@ -206,7 +207,6 @@ This is a compiled repository for 高校人才网. Last Update: 2024-05-24 07:12
 |[江苏省太仓市城市管理局2024年招聘2名编外工作人员简章](http://www.gaoxiaojob.com/announcement/detail/216404.html)|2024-05-20|2024-06-07|
 |[河北省赤城县人民法院2024年公开招聘10名司法警务辅助人员的公告](http://www.gaoxiaojob.com/announcement/detail/216405.html)|2024-05-20|2024-05-24|
 |[云南省曲靖市信访局2024年5月公开招聘2名公益性岗位工作人员公告](http://www.gaoxiaojob.com/announcement/detail/216417.html)|2024-05-20|2024-05-24|
-|[云南省元阳县政务服务中心2024年5月招聘6名工作人员（劳务派遣）公告](http://www.gaoxiaojob.com/announcement/detail/216681.html)|2024-05-20|2024-05-25|
 
 
 ## C9 News List
