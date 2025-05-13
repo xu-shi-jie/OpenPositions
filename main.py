@@ -3,11 +3,26 @@ import re
 import sqlite3
 from pathlib import Path
 
-import matplotlib.pyplot as plt
 import pandas as pd
 import requests
 from tqdm import tqdm
 
+headers = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/122.0.0.0 Safari/537.36"
+    ),
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;"
+        "q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8"
+    ),
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Referer": "https://www.google.com/",
+}
 
 def fetch_announcements():
     home_url = r'https://www.gaoxiaojob.com/daily/detail/{}.html'
@@ -22,7 +37,7 @@ def fetch_announcements():
     while True:
         url = home_url.format(i)
         print("\rFetching page {}...".format(url), end='')
-        response = requests.get(url)
+        response = requests.get(url, headers=headers)
         if response.status_code != 200:
             i += 1
             break
@@ -42,14 +57,14 @@ def fetch_announcements():
 
 def fetch_daily():
     home_url = r'https://www.gaoxiaojob.com/'
-    content = requests.get(home_url).text
+    content = requests.get(home_url, headers=headers).text
     daily_url = re.findall(r'href="(/daily/detail/.+?.html)"', content)
     df = pd.read_csv('announcements.csv')
 
-    for url in (pbar := tqdm(daily_url)):
+    for url in (pbar := tqdm(daily_url, desc="Iterating daily news...")):
         url = 'https://www.gaoxiaojob.com' + url
         pbar.set_description(f"Fetching {url}...")
-        response = requests.get(url)
+        response = requests.get(url, headers=headers)
         if response.status_code != 200:
             continue
         content = response.text
@@ -114,7 +129,7 @@ def fetch_daily():
 
 
 def extract_info(url):
-    content = requests.get(url).text
+    content = requests.get(url, headers=headers).text
     title = re.findall(r'title="(.+?)"', content)[0]
     try:
         publish_time = re.findall(r'发布时间：(\d{4}\-\d{2}\-\d{2})', content)[0]
