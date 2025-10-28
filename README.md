@@ -1,12 +1,22 @@
 # 高校人才网最新公告
 
-This is a compiled repository for 高校人才网. Last Update: 2025-10-27 07:19:36 UTC.
+This is a compiled repository for 高校人才网. Last Update: 2025-10-28 07:27:04 UTC.
 ## [Latest 200 Announcements (C9 included)](#c9-news-list) | [Latest 200 Announcements (C9 excluded)](#news-lists-c9-excluded)
 
 ## News Lists (C9 excluded)
 
 |标题|发布时间|截止时间|
 |---|---|---|
+|[事业编制！新余学院数学与计算机学院2025年招聘公告](http://www.gaoxiaojob.com/announcement/detail/353224.html)|2025-10-27|2025-12-31|
+|[江西软件职业技术大学2025年理事长助理招聘公告](http://www.gaoxiaojob.com/announcement/detail/353230.html)|2025-10-27||
+|[国防科技大学电子科学学院某研究团队2025年诚聘教师（军队正式文职编制，无非升即走）](http://www.gaoxiaojob.com/announcement/detail/353231.html)|2025-10-27||
+|[内蒙古医科大学护理学院2025年引进高层次人才公告（第二轮）](http://www.gaoxiaojob.com/announcement/detail/353484.html)|2025-10-27||
+|[香港中文大学（深圳）理工学院2025年实验室工程师 II招聘启事](http://www.gaoxiaojob.com/announcement/detail/353232.html)|2025-10-27||
+|[南方科技大学刘志权课题组2025年诚聘2名博士后](http://www.gaoxiaojob.com/announcement/detail/353485.html)|2025-10-27|2026-10-31|
+|[香港中文大学（深圳）人文社科学院2025年主管（宣传及学术活动）招聘启事](http://www.gaoxiaojob.com/announcement/detail/353233.html)|2025-10-27||
+|[香港中文大学（深圳）行政事务处2025年行政专员（商铺）招聘启事](http://www.gaoxiaojob.com/announcement/detail/353234.html)|2025-10-27||
+|[香港中文大学（深圳）音乐学院2025年行政专员（宣传）招聘启事](http://www.gaoxiaojob.com/announcement/detail/353235.html)|2025-10-27||
+|[山东信息职业技术学院2025年公开招聘博士研究生简章](http://www.gaoxiaojob.com/announcement/detail/353236.html)|2025-10-27|2025-12-31|
 |[四川民族学院2025年引进高层次人才公告](http://www.gaoxiaojob.com/announcement/detail/352767.html)|2025-10-23|2026-05-31|
 |[广州医科大学附属第五医院姚文霞课题组2025年博士后招聘启事](http://www.gaoxiaojob.com/announcement/detail/352552.html)|2025-10-23||
 |[2025年衢州市复大生物医药创新研究院双聘共享高层次人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/352171.html)|2025-10-23|2025-12-31|
@@ -197,22 +207,17 @@ This is a compiled repository for 高校人才网. Last Update: 2025-10-27 07:19
 |[海南省陵水黎族自治县妇幼保健院2025年招聘4名医疗专业技术人员公告](http://www.gaoxiaojob.com/announcement/detail/352691.html)|2025-10-23|2025-10-28|
 |[天津市公安医院2025年招聘3名人事代理制工作人员方案](http://www.gaoxiaojob.com/announcement/detail/352700.html)|2025-10-23|2025-10-27|
 |[南京市红十字医院2025年公开招聘2名高层次人才公告](http://www.gaoxiaojob.com/announcement/detail/352702.html)|2025-10-23|2025-10-31|
-|[重庆医科大学附属第二医院健康医学中心2025年招聘1名超声医师（编外）启事](http://www.gaoxiaojob.com/announcement/detail/352704.html)|2025-10-23|2025-10-27|
-|[重庆市江津区第一人民医院2025年10月招聘1名肾内岗专业技术人员简章](http://www.gaoxiaojob.com/announcement/detail/352705.html)|2025-10-23|2025-10-30|
-|[西安医学高等专科学校附属医院2025年招聘公告](http://www.gaoxiaojob.com/announcement/detail/352706.html)|2025-10-23||
-|[中国医学科学院北京协和医院整形美容外科2025年10月招聘合同制科研助理启事](http://www.gaoxiaojob.com/announcement/detail/352711.html)|2025-10-23|2025-12-01|
-|[四川省彭州市人民医院2025年10月招聘公告](http://www.gaoxiaojob.com/announcement/detail/352714.html)|2025-10-23|2025-10-29|
-|[华中科技大学同济医学院附属协和医院2025年招聘博士后启事（长期有效）](http://www.gaoxiaojob.com/announcement/detail/352718.html)|2025-10-23||
-|[广东省惠州市第三人民医院（广州医科大学附属惠州医院）2025年公开招聘20名护理人员公告（第二批）](http://www.gaoxiaojob.com/announcement/detail/352720.html)|2025-10-23|2025-10-31|
-|[安徽省寿县人民医院、寿县中医院2025年10月使用周转池编制公开招聘10名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/352721.html)|2025-10-23|2025-10-31|
-|[江苏省南通市崇川区虹桥街道社区卫生服务中心2025年公开招聘4名人才公告](http://www.gaoxiaojob.com/announcement/detail/352732.html)|2025-10-23|2025-11-05|
-|[福建省三明市第一医院关于2025年10月公开招收1名专技人员的通知](http://www.gaoxiaojob.com/announcement/detail/352737.html)|2025-10-23|2025-10-27|
 
 
 ## C9 News List
 
 |标题|发布时间|截止时间|
 |---|---|---|
+|[清华大学数学科学中心数学流动站（合作导师刘爽）2025年招聘1名博士后](http://www.gaoxiaojob.com/announcement/detail/353473.html)|2025-10-27|2026-01-31|
+|[浙江大学国际教育学院（外国专家留学生服务中心）2025年10月招聘1名工作人员启事](http://www.gaoxiaojob.com/announcement/detail/353480.html)|2025-10-27|2025-11-02|
+|[浙江大学本科生院2025年10月招聘1名管理辅助人员启事](http://www.gaoxiaojob.com/announcement/detail/353481.html)|2025-10-27|2025-11-05|
+|[清华大学教育学院张羽课题组2025年招聘1名博士后](http://www.gaoxiaojob.com/announcement/detail/353482.html)|2025-10-27|2025-11-13|
+|[清华大学环境学院李淼教授课题组2025年招聘2名博士后](http://www.gaoxiaojob.com/announcement/detail/353483.html)|2025-10-27|2026-01-31|
 |[北京大学物理学院2025年招聘2名高能量密度物理专业博士后研究人员启事](http://www.gaoxiaojob.com/announcement/detail/352735.html)|2025-10-23|2026-04-22|
 |[浙江大学王娟课题组2025年招聘清洁能源可持续利用技术和器件研发博士后公告](http://www.gaoxiaojob.com/announcement/detail/352745.html)|2025-10-23|2026-10-20|
 |[义乌工商职业技术学院2025年赴清华大学招聘26年届毕业生简章](http://www.gaoxiaojob.com/announcement/detail/352746.html)|2025-10-23|2025-10-30|
@@ -408,8 +413,3 @@ This is a compiled repository for 高校人才网. Last Update: 2025-10-27 07:19
 |[清华大学能源互联网创新研究院2026届校园招聘新能源技术研究博士后](http://www.gaoxiaojob.com/announcement/detail/351564.html)|2025-10-20||
 |[清华大学能源互联网创新研究院2026届校园招聘柔性供电与能源管控工程师](http://www.gaoxiaojob.com/announcement/detail/351565.html)|2025-10-20||
 |[南京大学数学学院2025年10月招聘助理公告（XZ2025-195）](http://www.gaoxiaojob.com/announcement/detail/351566.html)|2025-10-20|2025-10-23|
-|[清华大学能源互联网创新研究院2026届校园招聘低碳电力技术高级研究员](http://www.gaoxiaojob.com/announcement/detail/351571.html)|2025-10-20||
-|[清华大学能源互联网创新研究院2026届校园招聘储能参与市场研究员](http://www.gaoxiaojob.com/announcement/detail/351572.html)|2025-10-20||
-|[清华大学能源互联网创新研究院2026届校园招聘电力电子工程师](http://www.gaoxiaojob.com/announcement/detail/351577.html)|2025-10-20||
-|[清华大学能源互联网创新研究院2026届校园招聘电力电子博士后](http://www.gaoxiaojob.com/announcement/detail/351578.html)|2025-10-20||
-|[清华大学能源互联网创新研究院2026届校园招聘电力大模型高级研究员](http://www.gaoxiaojob.com/announcement/detail/351579.html)|2025-10-20||
