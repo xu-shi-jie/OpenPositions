@@ -1,6 +1,6 @@
 # 高校人才网最新公告
 
-This is a compiled repository for 高校人才网. Last Update: 2025-11-07 07:19:00 UTC.
+This is a compiled repository for 高校人才网. Last Update: 2025-11-08 07:39:11 UTC.
 ## [Latest 200 Announcements (C9 included)](#c9-news-list) | [Latest 200 Announcements (C9 excluded)](#news-lists-c9-excluded)
 
 ## News Lists (C9 excluded)
@@ -13,6 +13,11 @@ This is a compiled repository for 高校人才网. Last Update: 2025-11-07 07:19
 |[江苏理工学院2025年公开招聘工作人员公告（第二批）](http://www.gaoxiaojob.com/announcement/detail/355520.html)|2025-11-06|2026-03-29|
 |[广西农业职业技术大学2025年度第二批公开招聘53名教职人员控制数工作人员（高层次人才）公告](http://www.gaoxiaojob.com/announcement/detail/355608.html)|2025-11-06|2025-11-11|
 |[桂林理工大学2025年公开招聘高层次人才公告](http://www.gaoxiaojob.com/announcement/detail/355693.html)|2025-11-06|2025-11-11|
+|[河北交通职业技术学院2025年选聘31名工作人员公告（第二次）](http://www.gaoxiaojob.com/announcement/detail/356234.html)|2025-11-06|2025-12-05|
+|[四川卫生康复职业学院2025年公开招聘10名编外工作人员公告](http://www.gaoxiaojob.com/announcement/detail/356241.html)|2025-11-06|2025-11-14|
+|[中南大学后勤保障部2025年11月招聘3名非事业编制工作人员公告](http://www.gaoxiaojob.com/announcement/detail/356249.html)|2025-11-06|2025-11-17|
+|[中国音乐学院2025年第六批招聘非编工作人员公告](http://www.gaoxiaojob.com/announcement/detail/356250.html)|2025-11-06|2025-11-13|
+|[华东师范大学药学院2025年11月招聘2名综合行政岗人员公告](http://www.gaoxiaojob.com/announcement/detail/356251.html)|2025-11-06|2025-12-10|
 |[2026年航天工程大学计算机教学科研团队文职人员招录公告](http://www.gaoxiaojob.com/announcement/detail/356107.html)|2025-11-05|2025-11-09|
 |[浙江钱塘高等研究院分子遗传与脑疾病实验室2025年博士后招收公告](http://www.gaoxiaojob.com/announcement/detail/355791.html)|2025-11-05||
 |[关于举办2025年“粤港澳高校中医药基础课程教育联盟”学术年会暨粤港澳中医药博士后论坛的会议预通知](http://www.gaoxiaojob.com/announcement/detail/355939.html)|2025-11-05|2025-11-14|
@@ -202,11 +207,6 @@ This is a compiled repository for 高校人才网. Last Update: 2025-11-07 07:19
 |[杭州市行政审批服务管理办公室及所属事业单位2025年11月公开招聘3名编外工作人员公告](http://www.gaoxiaojob.com/announcement/detail/356118.html)|2025-11-05|2025-11-11|
 |[济南市各级机关2026年度考试录用公务员公告](http://www.gaoxiaojob.com/announcement/detail/356119.html)|2025-11-05|2025-11-10|
 |[南宁市青秀区人民政府办公室2025年度公开招聘1名行政辅助人员简章](http://www.gaoxiaojob.com/announcement/detail/355899.html)|2025-11-05|2025-11-07|
-|[常州市总商会2025年11月公开招聘1名社会化管理职工公告](http://www.gaoxiaojob.com/announcement/detail/355900.html)|2025-11-05|2025-11-10|
-|[中共重庆市璧山区委社会工作部2025年11月公开招聘2名非公企业和社会组织专职党建工作指导员简章](http://www.gaoxiaojob.com/announcement/detail/355916.html)|2025-11-05|2025-11-11|
-|[山东省聊城市各级机关2026年度考试录用公务员公告](http://www.gaoxiaojob.com/announcement/detail/355917.html)|2025-11-05|2025-11-10|
-|[南京市建邺区司法局2025年11月公开招8名编外工作人员公告](http://www.gaoxiaojob.com/announcement/detail/355929.html)|2025-11-05|2025-11-07|
-|[山东省潍坊市各级机关2026年度考试录用公务员公告](http://www.gaoxiaojob.com/announcement/detail/355934.html)|2025-11-05|2025-11-10|
 
 
 ## C9 News List
@@ -215,6 +215,7 @@ This is a compiled repository for 高校人才网. Last Update: 2025-11-07 07:19
 |---|---|---|
 |[复旦大学上海医学院（院所平台）2025年公开招聘25名高层次急需紧缺专业技术人才公告](http://www.gaoxiaojob.com/announcement/detail/355863.html)|2025-11-06|2025-12-31|
 |[中国科学技术大学2025年招聘管理岗位人员启事](http://www.gaoxiaojob.com/announcement/detail/355908.html)|2025-11-06|2025-11-20|
+|[上海交通大学学生创新中心创新实践部2025年11月招聘1名AIGC与具身智能方向教辅人员](http://www.gaoxiaojob.com/announcement/detail/356242.html)|2025-11-06|2025-11-20|
 |[北京大学现代农业研究院（潍坊现代农业山东省实验室）2025年招聘工作人员](http://www.gaoxiaojob.com/announcement/detail/355973.html)|2025-11-05|2026-05-04|
 |[上海交通大学长兴实验室（海洋同位素分离应用研究中心）2025年11月招聘2名工程师](http://www.gaoxiaojob.com/announcement/detail/355977.html)|2025-11-05|2025-11-30|
 |[上海交通大学智慧能源创新学院-培训学院2025年11月招聘8名培训管理人员](http://www.gaoxiaojob.com/announcement/detail/355989.html)|2025-11-05|2025-11-24|
@@ -412,4 +413,3 @@ This is a compiled repository for 高校人才网. Last Update: 2025-11-07 07:19
 |[浙江大学环境与资源学院胡磊青研究员组2025年诚招博士后启事](http://www.gaoxiaojob.com/announcement/detail/354254.html)|2025-10-29|2026-10-28|
 |[清华大学基础医学院基础医学流动站（合作导师王雅婷）2025年招聘2名博士后](http://www.gaoxiaojob.com/announcement/detail/354011.html)|2025-10-29|2026-09-10|
 |[清华大学环境学院环境科学与工程流动站（合作导师齐维晓）2025年招聘3名博士后](http://www.gaoxiaojob.com/announcement/detail/354012.html)|2025-10-29|2026-03-31|
-|[清华大学环境学院环境科学与工程流动站（合作导师刘会娟）2025年招聘3名博士后](http://www.gaoxiaojob.com/announcement/detail/354013.html)|2025-10-29|2026-03-31|
