@@ -1,12 +1,25 @@
 # 高校人才网最新公告
 
-This is a compiled repository for 高校人才网. Last Update: 2025-11-18 07:19:15 UTC.
+This is a compiled repository for 高校人才网. Last Update: 2025-11-19 12:55:47 UTC.
 ## [Latest 200 Announcements (C9 included)](#c9-news-list) | [Latest 200 Announcements (C9 excluded)](#news-lists-c9-excluded)
 
 ## News Lists (C9 excluded)
 
 |标题|发布时间|截止时间|
 |---|---|---|
+|[重庆大学2025年招聘12名专职辅导员公告](http://www.gaoxiaojob.com/announcement/detail/359144.html)|2025-11-18|2025-11-27|
+|[中国地质大学（武汉）信息化工作办公室2025年11月招聘1名劳务派遣制工作人员启事](http://www.gaoxiaojob.com/announcement/detail/359145.html)|2025-11-18|2025-11-30|
+|[烟台新药创制山东省实验室（蒋翔锐课题组）2025年招聘2名博士后和科研助理](http://www.gaoxiaojob.com/announcement/detail/359137.html)|2025-11-18||
+|[重庆市轨道交通设计研究院有限责任公司2025年招聘1名博士后研究人员公告](http://www.gaoxiaojob.com/announcement/detail/359142.html)|2025-11-18|2025-11-30|
+|[国家检察官学院（北京）2025年11月招聘5名编辑人员公告](http://www.gaoxiaojob.com/announcement/detail/359257.html)|2025-11-18|2025-11-23|
+|[广州市黄埔区人民政府夏港街道办事处2025年11月公开招聘4名党建指导员和初级聘员公告](http://www.gaoxiaojob.com/announcement/detail/359258.html)|2025-11-18|2025-11-28|
+|[海南省三亚市直属学校2026年赴高校面向应届毕业生公开招聘169名教师公告](http://www.gaoxiaojob.com/announcement/detail/359252.html)|2025-11-18|2025-11-28|
+|[西安市长安区西北大学附属初级中学2026年招聘教师公告](http://www.gaoxiaojob.com/announcement/detail/359290.html)|2025-11-18|2026-12-30|
+|[重庆市綦江区教育事业单位2025年面向应届高校毕业生考核招聘15名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/359041.html)|2025-11-18|2025-11-24|
+|[上海市化工职业病防治院(上海市职业安全健康研究院)2025年下半年公开招聘18名工作人员公告](http://www.gaoxiaojob.com/announcement/detail/359277.html)|2025-11-18|2025-12-25|
+|[福建省福州市台江区瀛洲街道社区卫生服务中心2025年11月招聘2名专业技术人才公告](http://www.gaoxiaojob.com/announcement/detail/359030.html)|2025-11-18|2025-11-23|
+|[甘肃省华池县事业单位2026年公开引进高层次和急需紧缺人才公告](http://www.gaoxiaojob.com/announcement/detail/359220.html)|2025-11-18|2025-11-27|
+|[四川省成都东部新区第三人民医院2025年11月公开招聘6名工作人员信息](http://www.gaoxiaojob.com/announcement/detail/359203.html)|2025-11-18|2025-11-20|
 |[百万英才汇南粤，新安职院筑未来——广东新安职业技术学院2025年人才招募公告](http://www.gaoxiaojob.com/announcement/detail/357898.html)|2025-11-14||
 |[广东新安职业技术学院2025年外籍教师招聘公告](http://www.gaoxiaojob.com/announcement/detail/357786.html)|2025-11-14||
 |[广东培正学院2025年行政教辅和专任教师岗位招聘简章](http://www.gaoxiaojob.com/announcement/detail/358155.html)|2025-11-13||
@@ -194,19 +207,6 @@ This is a compiled repository for 高校人才网. Last Update: 2025-11-18 07:19
 |[广州市黄埔区教育研究院关于2025年集中公开招聘1名高层次、急需紧缺人才公告（第三轮）](http://www.gaoxiaojob.com/announcement/detail/358014.html)|2025-11-13|2025-11-21|
 |[广州市白云区教育研究院关于2025年集中公开招聘1名高层次、急需紧缺人才公告（第三轮）](http://www.gaoxiaojob.com/announcement/detail/358015.html)|2025-11-13|2025-11-21|
 |[西湖大学工学院向宇轩课题组招聘行政助理](http://www.gaoxiaojob.com/announcement/detail/358016.html)|2025-11-13||
-|[西湖大学理学院林文斌实验室招聘启事（长期有效）](http://www.gaoxiaojob.com/announcement/detail/358019.html)|2025-11-13||
-|[西湖大学应急医学研究中心孙仁课题组（系统病毒学与免疫组学实验室）行政助理/科研助理招聘](http://www.gaoxiaojob.com/announcement/detail/358030.html)|2025-11-13||
-|[天府锦城实验室（前沿医学中心）2025年招聘1名AI算力配套服务设施运维工程师](http://www.gaoxiaojob.com/announcement/detail/358033.html)|2025-11-13||
-|[四川九州电子科技股份有限公司2025年招聘1名战略采购岗人员公告](http://www.gaoxiaojob.com/announcement/detail/358034.html)|2025-11-13|2026-05-03|
-|[成都国资国企改革发展研究院有限责任公司2025年招聘产业研究岗等岗位人员公告](http://www.gaoxiaojob.com/announcement/detail/358050.html)|2025-11-13|2025-11-14|
-|[中国科学院上海有机化学研究所吕泽杰课题组2025年招聘2名博士后启事](http://www.gaoxiaojob.com/announcement/detail/358052.html)|2025-11-13||
-|[中国科学院脑科学与智能技术卓越创新中心赵郑拓研究组与刘赐融研究组2025年联合招聘博士后](http://www.gaoxiaojob.com/announcement/detail/358053.html)|2025-11-13||
-|[国科温州研究院孙辉课题组2025年招聘光学工程师](http://www.gaoxiaojob.com/announcement/detail/358054.html)|2025-11-13||
-|[国家纳米科学中心林耀新课题组2025年招聘1名项目聘用副研究员启事](http://www.gaoxiaojob.com/announcement/detail/358061.html)|2025-11-13||
-|[西湖大学医学院孙仁课题组（系统病毒学与免疫组学实验室）行政助理/科研助理招聘](http://www.gaoxiaojob.com/announcement/detail/358068.html)|2025-11-13||
-|[中国科学院广州生物医药与健康研究院谱系单细胞多组学研究组(李芸)2025年招聘博士后及副研究员](http://www.gaoxiaojob.com/announcement/detail/358069.html)|2025-11-13||
-|[中国科学院化学研究所2025年招聘科技、支撑岗位工作人员启事](http://www.gaoxiaojob.com/announcement/detail/358088.html)|2025-11-13|2025-12-07|
-|[四川长虹杰创锂电科技有限公司2025年招聘2名采购主办岗位人员公告](http://www.gaoxiaojob.com/announcement/detail/358098.html)|2025-11-13|2026-04-30|
 
 
 ## C9 News List
