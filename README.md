@@ -1,12 +1,20 @@
 # 高校人才网最新公告
 
-This is a compiled repository for 高校人才网. Last Update: 2026-02-25 07:55:08 UTC.
+This is a compiled repository for 高校人才网. Last Update: 2026-02-26 08:04:13 UTC.
 ## [Latest 200 Announcements (C9 included)](#c9-news-list) | [Latest 200 Announcements (C9 excluded)](#news-lists-c9-excluded)
 
 ## News Lists (C9 excluded)
 
 |标题|发布时间|截止时间|
 |---|---|---|
+|[中国石油大学（北京）克拉玛依校区2026年度教职工招聘公告](http://www.gaoxiaojob.com/announcement/detail/380181.html)|2026-02-25||
+|[事业编制！玉溪师范学院2026年公开招聘博士工作人员公告](http://www.gaoxiaojob.com/announcement/detail/380172.html)|2026-02-25|2026-12-31|
+|[安徽大学2026年诚聘海内外人才](http://www.gaoxiaojob.com/announcement/detail/380471.html)|2026-02-25|2026-08-13|
+|[湖南师范大学2026年第一批公开招聘99名专任教师公告](http://www.gaoxiaojob.com/announcement/detail/380374.html)|2026-02-25|2026-12-31|
+|[福建社会科学院（福建省习近平新时代中国特色社会主义思想研究中心）2026年公开招聘具有博士学位科研人员方案](http://www.gaoxiaojob.com/announcement/detail/380182.html)|2026-02-25||
+|[江西软件职业技术大学2026年人才引进公告](http://www.gaoxiaojob.com/announcement/detail/380211.html)|2026-02-25||
+|[中国社会科学院大学哲学院2026年招录（School of Philosophy, Chinese Academy of Social Sciences (CASS) is recruiting）](http://www.gaoxiaojob.com/announcement/detail/380195.html)|2026-02-25|2026-08-31|
+|[江西财经大学2026年招聘91名高层次人才公告(20)](http://www.gaoxiaojob.com/announcement/detail/380355.html)|2026-02-25|2026-12-31|
 |[山东外国语职业技术大学2026年高层次人才招聘简章](http://www.gaoxiaojob.com/announcement/detail/380167.html)|2026-02-13||
 |[上海体育大学2026年招聘57名人才公告](http://www.gaoxiaojob.com/announcement/detail/379888.html)|2026-02-13|2026-06-30|
 |[培黎职业学院2026年公开引进31名高层次人才公告](http://www.gaoxiaojob.com/announcement/detail/379984.html)|2026-02-13|2026-03-03|
@@ -199,14 +207,6 @@ This is a compiled repository for 高校人才网. Last Update: 2026-02-25 07:55
 |[广东科贸职业学院2026年第一批公开招聘校编工作人员公告](http://www.gaoxiaojob.com/announcement/detail/379543.html)|2026-02-12|2026-02-25|
 |[铸剑为国 聚才兴邦 : 中国工程物理研究院研究生院2026年国际青年学者云论坛诚邀海内外青年才俊](http://www.gaoxiaojob.com/announcement/detail/379553.html)|2026-02-12||
 |[事业编制！江西省科学院2026年高层次人才招聘公告](http://www.gaoxiaojob.com/announcement/detail/379554.html)|2026-02-12||
-|[南方医科大学2026年度诚邀英才依托申报香江学者计划（湾区项目）、澳门青年学者计划（湾区项目）](http://www.gaoxiaojob.com/announcement/detail/379604.html)|2026-02-12|2026-04-24|
-|[驻马店幼儿师范高等专科学校2025-2026学年第二学期招聘67名兼职教师(外聘教师)公告](http://www.gaoxiaojob.com/announcement/detail/379606.html)|2026-02-12|2026-02-27|
-|[中国石油大学（北京）塔尔萨国际能源学院2026年2月补充招聘1名办公室行政管理人员公告](http://www.gaoxiaojob.com/announcement/detail/379607.html)|2026-02-12|2026-02-23|
-|[厦门大学未来海洋生物智造前沿研究中心2026年招聘启事](http://www.gaoxiaojob.com/announcement/detail/379608.html)|2026-02-12||
-|[鄂尔多斯生态环境职业学院2026年2月引进64名人才公告](http://www.gaoxiaojob.com/announcement/detail/379616.html)|2026-02-12|2026-03-02|
-|[中国井冈山干部学院2026年度面向全国公开引进5名优秀人才公告](http://www.gaoxiaojob.com/announcement/detail/379630.html)|2026-02-12|2026-05-25|
-|[山东航空学院自动化与电气工程学院2026年诚聘海内外优秀人才](http://www.gaoxiaojob.com/announcement/detail/379632.html)|2026-02-12||
-|[鲁东大学国际教育学院2026年招聘优秀博士信息](http://www.gaoxiaojob.com/announcement/detail/379647.html)|2026-02-12|2026-12-31|
 
 
 ## C9 News List
