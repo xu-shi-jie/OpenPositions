@@ -37,7 +37,7 @@ def fetch_announcements():
     while True:
         url = home_url.format(i)
         print("\rFetching page {}...".format(url), end='')
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, timeout=(10, 30))
         if response.status_code != 200:
             i += 1
             break
@@ -57,14 +57,14 @@ def fetch_announcements():
 
 def fetch_daily():
     home_url = r'https://www.gaoxiaojob.com/'
-    content = requests.get(home_url, headers=headers).text
+    content = requests.get(home_url, headers=headers, timeout=(10, 30)).text
     daily_url = re.findall(r'href="(/daily/detail/.+?.html)"', content)
     df = pd.read_csv('announcements.csv')
 
     for url in (pbar := tqdm(daily_url, desc="Iterating daily news...")):
         url = 'https://www.gaoxiaojob.com' + url
         pbar.set_description(f"Fetching {url}...")
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, timeout=(10, 30))
         if response.status_code != 200:
             continue
         content = response.text
@@ -92,16 +92,15 @@ def fetch_daily():
     ''')
     db.commit()
 
-    visited_urls = cursor.execute('SELECT url FROM announcements').fetchall()
-    visited_urls = [url[0] for url in visited_urls]
+    visited_urls = {row[0] for row in cursor.execute('SELECT url FROM announcements').fetchall()}
 
     df = pd.read_csv('announcements.csv')
 
     if Path('expired.txt').exists():
         with open('expired.txt', 'r') as f:
-            expired = f.read().split('\n')
+            expired = set(f.read().split('\n'))
     else:
-        expired = []
+        expired = set()
 
     for url in (pbar := tqdm(df['url'])):
         if url in expired or url in visited_urls:
@@ -120,7 +119,7 @@ def fetch_daily():
 
         except Exception as e:
             print(f" Error: {e}")
-            expired.append(url)
+            expired.add(url)
 
             with open('expired.txt', 'w') as f:
                 f.write('\n'.join(expired))
@@ -129,7 +128,7 @@ def fetch_daily():
 
 
 def extract_info(url):
-    content = requests.get(url, headers=headers).text
+    content = requests.get(url, headers=headers, timeout=(10, 30)).text
     title = re.findall(r'title="(.+?)"', content)[0]
     try:
         publish_time = re.findall(r'发布时间：(\d{4}\-\d{2}\-\d{2})', content)[0]
